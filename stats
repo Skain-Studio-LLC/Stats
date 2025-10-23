@@ -8741,7 +8741,7 @@
     "Dark Frostbear": {
         "Type": "Cone AOE Slow + Passive",
         "Image": "rbxassetid://79281029634533",
-        "Rarity": "Forgotten",
+        "Rarity": "The Forsaken",
         "PlacePrice": 400,
         "Offset": 0.25,
         "Max": 3,
@@ -9858,7 +9858,7 @@
     "Coffee": {
         "Type": "Damage + Cooldown Boost",
         "Image": "rbxassetid://131733393221448",
-        "Rarity": "Forgotten",
+        "Rarity": "The Forsaken",
         "PlacePrice": 400,
         "Offset": -0.3,
         "Max": 8,
@@ -10511,7 +10511,7 @@
     "Gaia Chica": {
         "Type": "Pierce Spread + Traps",
         "Image": "rbxassetid://137838669403437",
-        "Rarity": "Forgotten",
+        "Rarity": "The Forsaken",
         "PlacePrice": 50000,
         "NoEnemyAttack": true,
         "Offset": 0,
@@ -11906,7 +11906,7 @@
     "Michael's Demise": {
         "Type": "Cone AOE + True Stun",
         "Image": "rbxassetid://113159149163905",
-        "Rarity": "Forgotten",
+        "Rarity": "The Forsaken",
         "PlacePrice": 65000,
         "Offset": 0,
         "Max": 1,
@@ -13363,7 +13363,7 @@
     "Fossilized Puppet": {
         "Type": "Chain Splash + Passive",
         "Image": "rbxassetid://102097033004654",
-        "Rarity": "Forgotten",
+        "Rarity": "The Forsaken",
         "PlacePrice": 45000,
         "Offset": 0,
         "Max": 2,
@@ -14142,7 +14142,7 @@
     "Sparky": {
         "Type": "Chain",
         "Image": "rbxassetid://106044817477654",
-        "Rarity": "Forgotten",
+        "Rarity": "The Forsaken",
         "PlacePrice": 59214,
         "Offset": 0.4,
         "Max": 1,
@@ -14652,7 +14652,7 @@
     "Tropic Terror Duo": {
         "Type": "Cone AOE Slow + Passive",
         "Image": "rbxassetid://99621129596373",
-        "Rarity": "Forgotten",
+        "Rarity": "The Forsaken",
         "PlacePrice": 33333,
         "Offset": 0.5,
         "Max": 1,
