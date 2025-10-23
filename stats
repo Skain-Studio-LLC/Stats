@@ -1419,7 +1419,7 @@
     "SpringTrap": {
         "Type": "Pierce",
         "Image": "rbxassetid://18356146630",
-        "Rarity": "Nightmare",
+        "Rarity": "Exclusive",
         "PlacePrice": 20000,
         "Max": 2,
         "hitboxOffset": {
@@ -1979,7 +1979,7 @@
     "Sentinel Bonnie": {
         "Type": "Continuous",
         "Image": "rbxassetid://18363569957",
-        "Rarity": "Nightmare",
+        "Rarity": "Exclusive",
         "PlacePrice": 3000,
         "Offset": 0.35,
         "Max": 1,
@@ -2027,7 +2027,7 @@
     "War Machine Foxy": {
         "Type": "Continuous Cone AOE",
         "Image": "rbxassetid://18363581536",
-        "Rarity": "Nightmare",
+        "Rarity": "Exclusive",
         "PlacePrice": 3500,
         "Offset": 0.45,
         "Max": 4,
@@ -2105,7 +2105,7 @@
     "Witch Toy Chica": {
         "Type": "Poison",
         "Image": "rbxassetid://18363391561",
-        "Rarity": "Secret",
+        "Rarity": "Exclusive",
         "PlacePrice": 500,
         "Max": 3,
         "Passive": {"Name": "Lethal Potions", "Description": "Deals 75% damage in poison over 3 seconds"},
@@ -2530,7 +2530,7 @@
     "Valkyrie Chica": {
         "Type": "Continuous",
         "Image": "rbxassetid://18673330553",
-        "Rarity": "Nightmare",
+        "Rarity": "Exclusive",
         "PlacePrice": 10000,
         "Max": 4,
         "hitboxOffset": {
