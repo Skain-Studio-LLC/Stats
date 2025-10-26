@@ -79,7 +79,7 @@
     "Foxy": {
         "Type": "Melee",
         "Image": "rbxassetid://16620218689",
-        "Rarity": "Rare",
+        "Rarity": "Haunted",
         "PlacePrice": 600,
         "Offset": 0.65,
         "Max": 5,
@@ -118,7 +118,7 @@
     "Bonnie": {
         "Type": "Continuous",
         "Image": "rbxassetid://16620268084",
-        "Rarity": "Mythic",
+        "Rarity": "Phantom",
         "PlacePrice": 7500,
         "Max": 3,
         "hitboxOffset": {
@@ -157,7 +157,7 @@
         "Withered Chica": {
             "Type": "Single",
             "Image": "rbxassetid://16632209265",
-            "Rarity": "Rare",
+            "Rarity": "Haunted",
             "PlacePrice": 800,
             "Max": 2,
             "hitboxOffset": {
@@ -195,7 +195,7 @@
         "Withered Foxy": {
             "Type": "Dual",
             "Image": "rbxassetid://16632135968",
-            "Rarity": "Epic",
+            "Rarity": "Cursed",
             "PlacePrice": 1200,
             "Max": 3,
             "hitboxOffset": {
@@ -234,7 +234,7 @@
     "Withered Freddy": {
         "Type": "Continuous",
         "Image": "rbxassetid://16632239120",
-        "Rarity": "Mythic",
+        "Rarity": "Phantom",
         "PlacePrice": 5000,
         "Max": 3,
         "hitboxOffset": {
@@ -272,7 +272,7 @@
     "Withered Bonnie": {
         "Type": "Single",
         "Image": "rbxassetid://16632217188",
-        "Rarity": "Secret",
+        "Rarity": "Ethereal",
         "PlacePrice": 20000,
         "Max": 3,
         "hitboxOffset": {
@@ -311,7 +311,7 @@
     "Shadow Bonnie": {
         "Type": "AOE",
         "Image": "rbxassetid://16781197179",
-        "Rarity": "Nightmare",
+        "Rarity": "Oblivion",
         "PlacePrice": 25000,
         "Max": 2,
         "hitboxOffset": {
@@ -349,7 +349,7 @@
  "Toy Freddy": {
         "Type": "Single",
         "Image": "rbxassetid://16781095520",
-        "Rarity": "Rare",
+        "Rarity": "Haunted",
         "PlacePrice": 800,
         "Max": 3,
         "hitboxOffset": {
@@ -388,7 +388,7 @@
     "Toy Bonnie": {
         "Type": "Dual",
         "Image": "rbxassetid://16780983603",
-        "Rarity": "Epic",
+        "Rarity": "Cursed",
         "PlacePrice": 1000,
         "Max": 3,
         "hitboxOffset": {
@@ -426,7 +426,7 @@
     "Toy Chica": {
         "Type": "Explosion",
         "Image": "rbxassetid://16781017510",
-        "Rarity": "Epic",
+        "Rarity": "Cursed",
         "PlacePrice": 1250,
         "Max": 2,
         "hitboxOffset": {
@@ -465,7 +465,7 @@
     "Mangle": {
         "Type": "Explosion",
         "Image": "rbxassetid://16781119726",
-        "Rarity": "Secret",
+        "Rarity": "Ethereal",
         "PlacePrice": 12500,
         "Max": 2,
         "hitboxOffset": {
@@ -504,7 +504,7 @@
     "Shadow Freddy": {
         "Type": "AOE",
         "Image": "rbxassetid://17270065249",
-        "Rarity": "Secret",
+        "Rarity": "Ethereal",
         "PlacePrice": 15000,
         "Max": 2,
         "hitboxOffset": {
@@ -542,7 +542,7 @@
   "Balloon Boy": {
         "Type": "Explosion",
         "Image": "rbxassetid://16781077553",
-        "Rarity": "Mythic",
+        "Rarity": "Phantom",
         "PlacePrice": 5000,
         "Max": 3,
         "AnimationOffset": -5,
@@ -581,7 +581,7 @@
     "Golden Freddy": {
         "Type": "Single",
         "Image": "rbxassetid://17629034232",
-        "Rarity": "Mythic",
+        "Rarity": "Phantom",
         "PlacePrice": 4000,
         "Max": 2,
         "Offset": 0,
@@ -620,7 +620,7 @@
     "Puppet": {
         "Type": "Pierce",
         "Image": "rbxassetid://17802016570",
-        "Rarity": "Secret",
+        "Rarity": "Ethereal",
         "PlacePrice": 10000,
         "Max": 2,
         "hitboxOffset": {
@@ -659,7 +659,7 @@
     "Withered Golden Freddy": {
         "Type": "Single Wither",
         "Image": "rbxassetid://16781122207",
-        "Rarity": "Nightmare",
+        "Rarity": "Oblivion",
         "PlacePrice": 4000,
         "Max": 4,
         "Passive": {"Name": "Vengeful", "Description": "Targetted enemies take +35% more damage for 1 second."},
@@ -710,7 +710,7 @@
     "Endo": {
         "Type": "Support",
         "Image": "rbxassetid://17851638702",
-        "Rarity": "Secret",
+        "Rarity": "Ethereal",
         "PlacePrice": 1000,
         "NoEnemyAttack": true,
         "Max": 2,
@@ -753,7 +753,7 @@
     "Endo 02": {
         "Type": "Single",
         "Image": "rbxassetid://17690383931",
-        "Rarity": "Secret",
+        "Rarity": "Ethereal",
         "PlacePrice": 600,
         "Max": 4,
         "hitboxOffset": {
@@ -792,7 +792,7 @@
     "Plane Boy": {
         "Type": "Continuous",
         "Image": "rbxassetid://17689713814",
-        "Rarity": "Secret",
+        "Rarity": "Ethereal",
         "PlacePrice": 20000,
         "Offset": 2,
         "Max": 2,
@@ -831,7 +831,7 @@
     "Rockin Bonnie": {
         "Type": "AOE",
         "Image": "rbxassetid://17689695988",
-        "Rarity": "Secret",
+        "Rarity": "Ethereal",
         "PlacePrice": 500,
         "Max": 5,
         "hitboxOffset": {
@@ -869,7 +869,7 @@
     "Pirate Withered Foxy": {
         "Type": "Single",
         "Image": "rbxassetid://17851205149",
-        "Rarity": "Secret",
+        "Rarity": "Ethereal",
         "PlacePrice": 500,
         "Offset": 0.55,
         "Max": 3,
@@ -921,7 +921,7 @@
  "Marionette's Puppeteer": {
         "Type": "AOE",
         "Image": "rbxassetid://18151575297",
-        "Rarity": "Nightmare",
+        "Rarity": "Oblivion",
         "PlacePrice": 10000,
         "Max": 2,
         "hitboxOffset": {
@@ -960,7 +960,7 @@
     "Blighted Endo Freddy": {
         "Type": "AOE + Wither",
         "Image": "rbxassetid://18151573285",
-        "Rarity": "Nightmare",
+        "Rarity": "Oblivion",
         "PlacePrice": 71000,
         "Max": 2,
         "Passive": {"Name": "Blight", "Description": "Enemies in range take 20% more damage"},
@@ -1011,7 +1011,7 @@
     "Baker Toy Chica": {
         "Type": "Explosion",
         "Image": "rbxassetid://18161347460",
-        "Rarity": "Epic",
+        "Rarity": "Cursed",
         "PlacePrice": 800,
         "Max": 3,
         "hitboxOffset": {
@@ -1049,7 +1049,7 @@
     "Summer Toy Bonnie": {
         "Type": "Slow",
         "Image": "rbxassetid://18255590026",
-        "Rarity": "Rare",
+        "Rarity": "Haunted",
         "PlacePrice": 800,
         "Max": 3,
         "Passive": {"Name": "Slow", "Description": "Slows enemies"},
@@ -1097,7 +1097,7 @@
     "Coco Boy": {
         "Type": "Explosion",
         "Image": "rbxassetid://18256042312",
-        "Rarity": "Mythic",
+        "Rarity": "Phantom",
         "PlacePrice": 6000,
         "Max": 3,
         "hitboxOffset": {
@@ -1135,7 +1135,7 @@
     "Vendor Toy Chica": {
         "Type": "Explosion",
         "Image": "rbxassetid://121812873213035",
-        "Rarity": "Mythic",
+        "Rarity": "Phantom",
         "PlacePrice": 1000,
         "Max": 3,
         "hitboxOffset": {
@@ -1174,7 +1174,7 @@
     "Seven Seas Foxy": {
         "Type": "Pierce",
         "Image": "rbxassetid://18255813345",
-        "Rarity": "Secret",
+        "Rarity": "Ethereal",
         "PlacePrice": 5000,
         "Max": 4,
         "hitboxOffset": {
@@ -1213,7 +1213,7 @@
     "Leviathan Mangle": {
         "Type": "Pierce",
         "Image": "rbxassetid://18256011276",
-        "Rarity": "Nightmare",
+        "Rarity": "Oblivion",
         "PlacePrice": 10000,
         "Max": 3,
         "hitboxOffset": {
@@ -1251,7 +1251,7 @@
     "Algae FredBear": {
         "Type": "Nuke",
         "Image": "rbxassetid://18255264349",
-        "Rarity": "Nightmare",
+        "Rarity": "Oblivion",
         "PlacePrice": 3000,
         "Max": 2,
         "Passive": {"Name": "Sludge", "Description": "Attacks slow enemies by 55% for 1 second"},
@@ -1298,7 +1298,7 @@
     "Hawaii Endo 02": {
         "Type": "Support",
         "Image": "rbxassetid://18255863130",
-        "Rarity": "Epic",
+        "Rarity": "Cursed",
         "PlacePrice": 1000,
         "NoEnemyAttack": true,
         "Max": 2,
@@ -1341,7 +1341,7 @@
     "Rad Freddy": {
         "Type": "Single",
         "Image": "rbxassetid://18258392627",
-        "Rarity": "Secret",
+        "Rarity": "Ethereal",
         "PlacePrice": 800,
         "Max": 3,
         "hitboxOffset": {
@@ -1380,7 +1380,7 @@
     "Patriot Freddy": {
         "Type": "Explosion",
         "Image": "rbxassetid://18326604996",
-        "Rarity": "Secret",
+        "Rarity": "Ethereal",
         "PlacePrice": 300,
         "Max": 4,
         "hitboxOffset": {
@@ -1419,7 +1419,7 @@
     "SpringTrap": {
         "Type": "Pierce",
         "Image": "rbxassetid://18356146630",
-        "Rarity": "Exclusive",
+        "Rarity": "Anomaly",
         "PlacePrice": 20000,
         "Max": 2,
         "hitboxOffset": {
@@ -1457,7 +1457,7 @@
     "Endo 03": {
         "Type": "Single",
         "Image": "rbxassetid://18363471703",
-        "Rarity": "Epic",
+        "Rarity": "Cursed",
         "PlacePrice": 2000,
         "Max": 3,
         "hitboxOffset": {
@@ -1495,7 +1495,7 @@
     "Phantom Foxy": {
         "Type": "Single",
         "Image": "rbxassetid://18356274992",
-        "Rarity": "Rare",
+        "Rarity": "Haunted",
         "PlacePrice": 900,
         "Max": 4,
         "hitboxOffset": {
@@ -1533,7 +1533,7 @@
    "Phantom Chica": {
         "Type": "Explosion",
         "Image": "rbxassetid://18356356760",
-        "Rarity": "Secret",
+        "Rarity": "Ethereal",
         "PlacePrice": 15000,
         "Max": 2,
         "hitboxOffset": {
@@ -1571,7 +1571,7 @@
     "Phantom Freddy": {
         "Type": "Continuous",
         "Image": "rbxassetid://18363498934",
-        "Rarity": "Secret",
+        "Rarity": "Ethereal",
         "PlacePrice": 15000,
         "Max": 3,
         "hitboxOffset": {
@@ -1609,7 +1609,7 @@
     "Phantom Balloon Boy": {
         "Type": "Nuke",
         "Image": "rbxassetid://18356472602",
-        "Rarity": "Secret",
+        "Rarity": "Ethereal",
         "PlacePrice": 7500,
         "Max": 3,
         "hitboxOffset": {
@@ -1647,7 +1647,7 @@
     "Phantom Gold Freddy": {
         "Type": "Single",
         "Image": "rbxassetid://18363517791",
-        "Rarity": "Mythic",
+        "Rarity": "Phantom",
         "PlacePrice": 3000,
         "Max": 4,
         "hitboxOffset": {
@@ -1685,7 +1685,7 @@
     "FazCade": {
         "Type": "Farm",
         "Image": "rbxassetid://18363529003",
-        "Rarity": "Epic",
+        "Rarity": "Cursed",
         "PlacePrice": 1000,
         "Max": 3,
         "hitboxOffset": {
@@ -1728,7 +1728,7 @@
     "Phantom Mangle": {
         "Type": "Continuous Wither",
         "Image": "rbxassetid://18363533024",
-        "Rarity": "Nightmare",
+        "Rarity": "Oblivion",
         "PlacePrice": 61000,
         "Max": 2,
         "Passive": {"Name": "Phantasms Wrath", "Description": "Targetted enemies take 50% more damage for 1 second."},
@@ -1779,7 +1779,7 @@
     "Phantom Cupcake": {
         "Type": "Single",
         "Image": "rbxassetid://18363537562",
-        "Rarity": "Secret",
+        "Rarity": "Ethereal",
         "PlacePrice": 800,
         "Max": 4,
         "hitboxOffset": {
@@ -1817,7 +1817,7 @@
     "Amalgam": {
         "Type": "Continuous Slow",
         "Image": "rbxassetid://18363541545",
-        "Rarity": "Epic",
+        "Rarity": "Cursed",
         "PlacePrice": 2000,
         "Max": 2,
         "Passive": {"Name": "Slow", "Description": "Slows enemies by 50%"},
@@ -1860,7 +1860,7 @@
     "Phantom Puppet": {
         "Type": "Pierce",
         "Image": "rbxassetid://18363546528",
-        "Rarity": "Secret",
+        "Rarity": "Ethereal",
         "PlacePrice": 35000,
         "Max": 2,
         "hitboxOffset": {
@@ -1898,7 +1898,7 @@
     "Spring Bonnie": {
         "Type": "Support",
         "Image": "rbxassetid://18364574191",
-        "Rarity": "Nightmare",
+        "Rarity": "Oblivion",
         "PlacePrice": 1000,
         "Max": 2,
         "hitboxOffset": {
@@ -1941,7 +1941,7 @@
   "Bounded Shadow": {
         "Type": "Pierce",
         "Image": "rbxassetid://18363555442",
-        "Rarity": "Nightmare",
+        "Rarity": "Oblivion",
         "PlacePrice": 12500,
         "Max": 2,
         "hitboxOffset": {
@@ -1979,7 +1979,7 @@
     "Sentinel Bonnie": {
         "Type": "Continuous",
         "Image": "rbxassetid://18363569957",
-        "Rarity": "Exclusive",
+        "Rarity": "Anomaly",
         "PlacePrice": 3000,
         "Offset": 0.35,
         "Max": 1,
@@ -2027,7 +2027,7 @@
     "War Machine Foxy": {
         "Type": "Continuous Cone AOE",
         "Image": "rbxassetid://18363581536",
-        "Rarity": "Exclusive",
+        "Rarity": "Anomaly",
         "PlacePrice": 3500,
         "Offset": 0.45,
         "Max": 4,
@@ -2066,7 +2066,7 @@
    "Sniper Cupcake": {
         "Type": "Single",
         "Image": "rbxassetid://18364281117",
-        "Rarity": "Rare",
+        "Rarity": "Haunted",
         "PlacePrice": 800,
         "Max": 3,
         "hitboxOffset": {
@@ -2105,7 +2105,7 @@
     "Witch Toy Chica": {
         "Type": "Poison",
         "Image": "rbxassetid://18363391561",
-        "Rarity": "Exclusive",
+        "Rarity": "Anomaly",
         "PlacePrice": 500,
         "Max": 3,
         "Passive": {"Name": "Lethal Potions", "Description": "Deals 75% damage in poison over 3 seconds"},
@@ -2153,7 +2153,7 @@
     "Abyssal Foxy": {
         "Type": "Continuous Slow",
         "Image": "rbxassetid://18578478327",
-        "Rarity": "Nightmare",
+        "Rarity": "Oblivion",
         "PlacePrice": 45000,
         "Max": 1,
         "Passive": {"Name": "Slow", "Description": "Main Attack slows enemies by 60%. During charge state enemies are slowed by 70%"},
@@ -2219,7 +2219,7 @@
     "Major Freddy": {
         "Type": "Single",
         "Image": "rbxassetid://18665224476",
-        "Rarity": "Rare",
+        "Rarity": "Haunted",
         "PlacePrice": 1000,
         "Max": 4,
         "hitboxOffset": {
@@ -2265,7 +2265,7 @@
     "Enforcer Bonnie": {
         "Type": "Continuous",
         "Image": "rbxassetid://18673234413",
-        "Rarity": "Secret",
+        "Rarity": "Ethereal",
         "PlacePrice": 10000,
         "Max": 2,
         "hitboxOffset": {
@@ -2311,7 +2311,7 @@
     "Mercenary Foxy": {
         "Type": "Continuous",
         "Image": "rbxassetid://18673129884",
-        "Rarity": "Mythic",
+        "Rarity": "Phantom",
         "PlacePrice": 2500,
         "Max": 4,
         "hitboxOffset": {
@@ -2357,7 +2357,7 @@
     "Cupcake Tank": {
         "Type": "Summoner",
         "Image": "rbxassetid://18673630095",
-        "Rarity": "Secret",
+        "Rarity": "Ethereal",
         "PlacePrice": 2000,
         "Max": 2,
         "hitboxOffset": {
@@ -2416,7 +2416,7 @@
     "Commando Endo": {
         "Type": "Continuous Splash",
         "Image": "rbxassetid://18673468864",
-        "Rarity": "Secret",
+        "Rarity": "Ethereal",
         "PlacePrice": 1000,
         "Max": 1,
         "hitboxOffset": {
@@ -2491,7 +2491,7 @@
     "Rocketeer Mangle": {
         "Type": "Explosion",
         "Image": "rbxassetid://18673926504",
-        "Rarity": "Secret",
+        "Rarity": "Ethereal",
         "PlacePrice": 5000,
         "Max": 3,
         "hitboxOffset": {
@@ -2530,7 +2530,7 @@
     "Valkyrie Chica": {
         "Type": "Continuous",
         "Image": "rbxassetid://18673330553",
-        "Rarity": "Exclusive",
+        "Rarity": "Anomaly",
         "PlacePrice": 10000,
         "Max": 4,
         "hitboxOffset": {
@@ -2569,7 +2569,7 @@
     "Artillery Puppet": {
         "Type": "Explosion",
         "Image": "rbxassetid://18672617524",
-        "Rarity": "Epic",
+        "Rarity": "Cursed",
         "PlacePrice": 1500,
         "Max": 3,
         "hitboxOffset": {
@@ -2608,7 +2608,7 @@
     "Tarnished Spring Bonnie": {
         "Type": "Cone AOE + Passive",
         "Image": "rbxassetid://18777411515",
-        "Rarity": "Secret",
+        "Rarity": "Ethereal",
         "PlacePrice": 600,
         "Offset": 0,
         "Max": 3,
@@ -2669,7 +2669,7 @@
     "Scott": {
         "Type": "Splash",
         "Image": "rbxassetid://18864498819",
-        "Rarity": "Secret",
+        "Rarity": "Ethereal",
         "PlacePrice": 5000,
         "Offset": 1.25,
         "Max": 1,
@@ -2721,7 +2721,7 @@
     "Circuit Breaker Freddy": {
         "Type": "Cone AOE",
         "Image": "rbxassetid://18886487842",
-        "Rarity": "Nightmare",
+        "Rarity": "Oblivion",
         "PlacePrice": 6000,
         "Offset": 0,
         "Max": 3,
@@ -2773,7 +2773,7 @@
     "Glitched Puppeteer": {
         "Type": "Splash",
         "Image": "rbxassetid://18887217738",
-        "Rarity": "Nightmare",
+        "Rarity": "Oblivion",
         "PlacePrice": 20000,
         "Offset": 0.7,
         "Max": 3,
@@ -2812,7 +2812,7 @@
 "Glitched CupCake": {
         "Type": "AOE",
         "Image": "rbxassetid://18888327109",
-        "Rarity": "Epic",
+        "Rarity": "Cursed",
         "PlacePrice": 1500,
         "Offset": 0,
         "Max": 3,
@@ -2851,7 +2851,7 @@
     "The Crying Child": {
         "Type": "Slow",
         "Image": "rbxassetid://18937271323",
-        "Rarity": "Secret",
+        "Rarity": "Ethereal",
         "PlacePrice": 800,
         "Offset": 0,
         "Max": 2,
@@ -2899,10 +2899,10 @@
             }
         ]
     },
-    "Nightmare Foxy": {
+    "Oblivion Foxy": {
         "Type": "Splash",
         "Image": "rbxassetid://18974775213",
-        "Rarity": "Mythic",
+        "Rarity": "Phantom",
         "PlacePrice": 5000,
         "Offset": 1,
         "Max": 3,
@@ -2938,10 +2938,10 @@
             }
         ]
     },
-    "Nightmare Bonnie": {
+    "Oblivion Bonnie": {
         "Type": "Melee",
         "Image": "rbxassetid://18975677946",
-        "Rarity": "Secret",
+        "Rarity": "Ethereal",
         "PlacePrice": 15000,
         "Offset": 0.25,
         "Max": 3,
@@ -2977,10 +2977,10 @@
             }
         ]
     },
-   "Nightmare Chica": {
+   "Oblivion Chica": {
         "Type": "Splash",
         "Image": "rbxassetid://18975771590",
-        "Rarity": "Epic",
+        "Rarity": "Cursed",
         "PlacePrice": 4000,
         "Offset": 0.25,
         "Max": 3,
@@ -3020,10 +3020,10 @@
             }
         ]
     },
-    "Nightmare Freddy": {
+    "Oblivion Freddy": {
         "Type": "Melee",
         "Image": "rbxassetid://18975866920",
-        "Rarity": "Rare",
+        "Rarity": "Haunted",
         "PlacePrice": 750,
         "Offset": 0.25,
         "Max": 3,
@@ -3063,7 +3063,7 @@
     "NightMarionne": {
         "Type": "AOE",
         "Image": "rbxassetid://18975916197",
-        "Rarity": "Nightmare",
+        "Rarity": "Oblivion",
         "PlacePrice": 48000,
         "Offset": 0,
         "Max": 2,
@@ -3103,7 +3103,7 @@
     "Fredbear": {
         "Type": "Support",
         "Image": "rbxassetid://18977659349",
-        "Rarity": "Nightmare",
+        "Rarity": "Oblivion",
         "PlacePrice": 600,
         "Offset": 0,
         "Max": 3,
@@ -3145,10 +3145,10 @@
         ]
     },
     
-    "Nightmare Cupcake": {
+    "Oblivion Cupcake": {
         "Type": "Single Slow",
         "Image": "rbxassetid://18978229455",
-        "Rarity": "Epic",
+        "Rarity": "Cursed",
         "PlacePrice": 1500,
         "Offset": 0,
         "Max": 3,
@@ -3189,10 +3189,10 @@
             }
         ]
     },
-    "Nightmare": {
+    "Oblivion": {
         "Type": "AOE Poison",
         "Image": "rbxassetid://18977738423",
-        "Rarity": "Secret",
+        "Rarity": "Ethereal",
         "PlacePrice": 10000,
         "Offset": 0.5,
         "Max": 3,
@@ -3240,7 +3240,7 @@
     "Endo 04": {
         "Type": "Cone AOE Burn",
         "Image": "rbxassetid://18989232497",
-        "Rarity": "Secret",
+        "Rarity": "Ethereal",
         "PlacePrice": 3000,
         "Offset": 0,
         "Max": 3,
@@ -3288,7 +3288,7 @@
     "Flame Empress Chica": {
         "Type": "Nuke Burn",
         "Image": "rbxassetid://18971134114",
-        "Rarity": "Nightmare",
+        "Rarity": "Oblivion",
         "PlacePrice": 50000,
         "Offset": 0.5,
         "Max": 2,
@@ -3341,10 +3341,10 @@
             }
         ]
     },
-    "Nightmare Mangle": {
+    "Oblivion Mangle": {
         "Type": "AOE Poison",
         "Image": "rbxassetid://18977428026",
-        "Rarity": "Nightmare",
+        "Rarity": "Oblivion",
         "PlacePrice": 65000,
         "Offset": -1,
         "Max": 2,
@@ -3392,7 +3392,7 @@
     "Freddle": {
         "Type": "Summoner",
         "Image": "rbxassetid://18978374958",
-        "Rarity": "Secret",
+        "Rarity": "Ethereal",
         "PlacePrice": 400,
         "Offset": 0,
         "Max": 3,
@@ -3440,10 +3440,10 @@
             }
         ]
     },
-  "Nightmare Balloon Boy": {
+  "Oblivion Balloon Boy": {
         "Type": "Pierce",
         "Image": "rbxassetid://18978330449",
-        "Rarity": "Mythic",
+        "Rarity": "Phantom",
         "PlacePrice": 1500,
         "Offset": 0,
         "Max": 4,
@@ -3482,7 +3482,7 @@
     "Plushtrap": {
         "Type": "Support",
         "Image": "rbxassetid://18978316223",
-        "Rarity": "Secret",
+        "Rarity": "Ethereal",
         "PlacePrice": 600,
         "Offset": 0,
         "Max": 3,
@@ -3523,10 +3523,10 @@
             }
         ]
     },
-    "Nightmare Fredbear": {
+    "Oblivion Fredbear": {
         "Type": "Pierce",
         "Image": "rbxassetid://18978153260",
-        "Rarity": "Nightmare",
+        "Rarity": "Oblivion",
         "PlacePrice": 5000,
         "Offset": 0.7,
         "Max": 2,
@@ -3574,7 +3574,7 @@
     "Goliath Endo Freddy": {
         "Type": "AOE",
         "Image": "rbxassetid://112659672284119",
-        "Rarity": "Nightmare",
+        "Rarity": "Oblivion",
         "PlacePrice": 50000,
         "Offset": 0,
         "Max": 2,
@@ -3625,7 +3625,7 @@
     "Galleon Foxy": {
         "Type": "Splash Slow",
         "Image": "rbxassetid://118548312954474",
-        "Rarity": "Nightmare",
+        "Rarity": "Oblivion",
         "PlacePrice": 8000,
         "Offset": 1.5,
         "Max": 3,
@@ -3669,7 +3669,7 @@
     "Rave Demon Bonnie": {
         "Type": "Cone AOE",
         "Image": "rbxassetid://100372638867635",
-        "Rarity": "Secret",
+        "Rarity": "Ethereal",
         "PlacePrice": 7500,
         "Offset": 0.7,
         "Max": 1,
@@ -3714,7 +3714,7 @@
     "Buccaneer Foxy": {
         "Type": "Single",
         "Image": "rbxassetid://116374108172820",
-        "Rarity": "Epic",
+        "Rarity": "Cursed",
         "PlacePrice": 400,
         "Offset": 0.7,
         "Max": 6,
@@ -3761,7 +3761,7 @@
     "Party Chica": {
         "Type": "Splash",
         "Image": "rbxassetid://103160362573950",
-        "Rarity": "Epic",
+        "Rarity": "Cursed",
         "PlacePrice": 500,
         "Offset": 0.7,
         "Max": 3,
@@ -3800,7 +3800,7 @@
     "Hydra Mangle": {
         "Type": "Charge AOE Burn",
         "Image": "rbxassetid://78092879730354",
-        "Rarity": "Secret",
+        "Rarity": "Ethereal",
         "PlacePrice": 95000,
         "Offset": 0,
         "Max": 1,
@@ -3862,7 +3862,7 @@
     "Purple Guy": {
         "Type": "Turret Spawner",
         "Image": "rbxassetid://74846136473322",
-        "Rarity": "Secret",
+        "Rarity": "Ethereal",
         "PlacePrice": 600,
         "Offset": 0,
         "Max": 3,
@@ -3915,7 +3915,7 @@
    "Master Puppeteer": {
         "Type": "Continuous Pierce",
         "Image": "rbxassetid://139994062140962",
-        "Rarity": "Nightmare",
+        "Rarity": "Oblivion",
         "PlacePrice": 25000,
         "Offset": 0,
         "Max": 2,
@@ -3955,7 +3955,7 @@
 "Tuned Mangle": {
         "Type": "Splash",
         "Image": "rbxassetid://139180573868562",
-        "Rarity": "Secret",
+        "Rarity": "Ethereal",
         "PlacePrice": 15000,
         "Offset": 0,
         "Max": 3,
@@ -3994,7 +3994,7 @@
     "Wraith Freddy": {
         "Type": "AOE",
         "Image": "rbxassetid://115627084338568",
-        "Rarity": "Secret",
+        "Rarity": "Ethereal",
         "PlacePrice": 53000,
         "Offset": 0,
         "Max": 2,
@@ -4033,7 +4033,7 @@
     "Spectral Chica": {
         "Type": "Splash",
         "Image": "rbxassetid://130677986382080",
-        "Rarity": "Secret",
+        "Rarity": "Ethereal",
         "PlacePrice": 30000,
         "Offset": 0,
         "Max": 3,
@@ -4072,7 +4072,7 @@
     "Agonized SpringTrap": {
         "Type": "Pierce Spread",
         "Image": "rbxassetid://132655301839150",
-        "Rarity": "Nightmare",
+        "Rarity": "Oblivion",
         "PlacePrice": 66000,
         "Offset": 0,
         "Max": 2,
@@ -4132,7 +4132,7 @@
    "Limitless Shadow": {
         "Type": "Cone AOE",
         "Image": "rbxassetid://134973909366355",
-        "Rarity": "Nightmare",
+        "Rarity": "Oblivion",
         "PlacePrice": 58000,
         "Offset": 0,
         "Max": 2,
@@ -4172,7 +4172,7 @@
     "Fractured Bonnie": {
         "Type": "Continuous",
         "Image": "rbxassetid://124956379444337",
-        "Rarity": "Secret",
+        "Rarity": "Ethereal",
         "PlacePrice": 25000,
         "Offset": 0,
         "Max": 4,
@@ -4217,7 +4217,7 @@
     "Cowboy Freddy": {
         "Type": "Single",
         "Image": "rbxassetid://75145495587772",
-        "Rarity": "Rare",
+        "Rarity": "Haunted",
         "PlacePrice": 700,
         "Offset": 0,
         "Max": 3,
@@ -4256,7 +4256,7 @@
     "Tavern Chica": {
         "Type": "Splash",
         "Image": "rbxassetid://75064673887993",
-        "Rarity": "Mythic",
+        "Rarity": "Phantom",
         "PlacePrice": 1200,
         "Offset": 0,
         "Max": 3,
@@ -4295,7 +4295,7 @@
     "Maestro Puppet": {
         "Type": "Support",
         "Image": "rbxassetid://124446963849830",
-        "Rarity": "Epic",
+        "Rarity": "Cursed",
         "PlacePrice": 600,
         "Offset": 0,
         "Max": 3,
@@ -4339,7 +4339,7 @@
     "Slick Bonnie": {
         "Type": "Cone AOE",
         "Image": "rbxassetid://123472154860279",
-        "Rarity": "Secret",
+        "Rarity": "Ethereal",
         "PlacePrice": 2000,
         "Offset": 0,
         "Max": 3,
@@ -4379,7 +4379,7 @@
     "Bounty Mangle": {
         "Type": "Splash Farm",
         "Image": "rbxassetid://86267470826666",
-        "Rarity": "Nightmare",
+        "Rarity": "Oblivion",
         "PlacePrice": 4000,
         "Offset": 0,
         "Max": 2,
@@ -4424,7 +4424,7 @@
     "Hooligan Toy Bonnie": {
         "Type": "Splash",
         "Image": "rbxassetid://99820154884996",
-        "Rarity": "Epic",
+        "Rarity": "Cursed",
         "PlacePrice": 1500,
         "Offset": 0,
         "Max": 3,
@@ -4463,7 +4463,7 @@
     "BlindEye Foxy": {
         "Type": "Single Slow",
         "Image": "rbxassetid://122884069811995",
-        "Rarity": "Secret",
+        "Rarity": "Ethereal",
         "PlacePrice": 5000,
         "Offset": 0,
         "Max": 2,
@@ -4507,7 +4507,7 @@
     "Gunslinger Endo": {
         "Type": "Single",
         "Image": "rbxassetid://128673605608035",
-        "Rarity": "Secret",
+        "Rarity": "Ethereal",
         "PlacePrice": 12000,
         "Offset": 0,
         "Max": 4,
@@ -4546,7 +4546,7 @@
     "Outlaw Freddy": {
         "Type": "Splash",
         "Image": "rbxassetid://136678045195601",
-        "Rarity": "Nightmare",
+        "Rarity": "Oblivion",
         "PlacePrice": 17000,
         "Offset": 0,
         "Max": 3,
@@ -4586,7 +4586,7 @@
     "Jackpot Freddy": {
         "Type": "Splash Farm",
         "Image": "rbxassetid://108467505723572",
-        "Rarity": "Secret",
+        "Rarity": "Ethereal",
         "PlacePrice": 500,
         "Offset": 0,
         "Max": 3,
@@ -4631,7 +4631,7 @@
     "Valkyrie Prime": {
         "Type": "Continuous",
         "Image": "rbxassetid://136035340656184",
-        "Rarity": "Nightmare",
+        "Rarity": "Oblivion",
         "PlacePrice": 100000,
         "Offset": 0,
         "Max": 1,
@@ -4676,7 +4676,7 @@
     "Nautic Crusher Mangle": {
         "Type": "Pierce",
         "Image": "rbxassetid://85506116594248",
-        "Rarity": "Nightmare",
+        "Rarity": "Oblivion",
         "PlacePrice": 55000,
         "Offset": 0,
         "Max": 2,
@@ -4715,7 +4715,7 @@
     "RWQFSFASXC": {
         "Type": "AOE",
         "Image": "rbxassetid://127646561328941",
-        "Rarity": "Nightmare",
+        "Rarity": "Oblivion",
         "PlacePrice": 77000,
         "Offset": 0,
         "Max": 2,
@@ -4756,7 +4756,7 @@
         "Astral Bonnie": {
             "Type": "Continuous Splash",
             "Image": "rbxassetid://128604882971057",
-            "Rarity": "Apex",
+            "Rarity": "Eclipse",
             "PlacePrice": 20000,
             "Offset": 0.5,
             "Max": 3,
@@ -4805,7 +4805,7 @@
 "Phone Guy": {
         "Type": "AOE DMG + Slow",
         "Image": "rbxassetid://138275060327175",
-        "Rarity": "Secret",
+        "Rarity": "Ethereal",
         "PlacePrice": 750,
         "Offset": 0,
         "Max": 3,
@@ -4858,7 +4858,7 @@
 "Reactor Freddy": {
         "Type": "Continuous Splash",
         "Image": "rbxassetid://77248304349602",
-        "Rarity": "Nightmare",
+        "Rarity": "Oblivion",
         "PlacePrice": 40000,
         "Offset": 0,
         "Max": 2,
@@ -4918,7 +4918,7 @@
 "Deadeye Freddy": {
         "Type": "Splash",
         "Image": "rbxassetid://139393570539370",
-        "Rarity": "Nightmare",
+        "Rarity": "Oblivion",
         "PlacePrice": 62000,
         "Offset": 0,
         "Max": 2,
@@ -4964,7 +4964,7 @@
 "Ennard": {
         "Type": "Chain Shock",
         "Image": "rbxassetid://82456156246566",
-        "Rarity": "Nightmare",
+        "Rarity": "Oblivion",
         "PlacePrice": 43000,
         "Offset": 0.75,
         "Max": 2,
@@ -5014,7 +5014,7 @@
 "Circus Baby": {
         "Type": "Slash Stun",
         "Image": "rbxassetid://109411645448750",
-        "Rarity": "Nightmare",
+        "Rarity": "Oblivion",
         "PlacePrice": 22500,
         "Offset": 0,
         "Max": 2,
@@ -5062,7 +5062,7 @@
 "Ballora": {
         "Type": "Cooldown Booster",
         "Image": "rbxassetid://96561789964833",
-        "Rarity": "Mythic",
+        "Rarity": "Phantom",
         "PlacePrice": 1200,
         "Offset": 0,
         "Max": 3,
@@ -5106,7 +5106,7 @@
 "Funtime Foxy": {
         "Type": "Splash",
         "Image": "rbxassetid://130210196007742",
-        "Rarity": "Rare",
+        "Rarity": "Haunted",
         "PlacePrice": 450,
         "Offset": 0.3,
         "Max": 3,
@@ -5145,7 +5145,7 @@
 "Funtime Freddy": {
         "Type": "Splash",
         "Image": "rbxassetid://113691386593768",
-        "Rarity": "Epic",
+        "Rarity": "Cursed",
         "PlacePrice": 7500,
         "Offset": 0,
         "Max": 3,
@@ -5185,7 +5185,7 @@
 "Mendo": {
         "Type": "Trap Layer",
         "Image": "rbxassetid://117153987968201",
-        "Rarity": "Secret",
+        "Rarity": "Ethereal",
         "PlacePrice": 8000,
         "Offset": 0,
         "Max": 2,
@@ -5226,7 +5226,7 @@
 "Lolbit": {
         "Type": "Pierce Spread Stun",
         "Image": "rbxassetid://123600440160662",
-        "Rarity": "Nightmare",
+        "Rarity": "Oblivion",
         "PlacePrice": 4000,
         "Offset": 0,
         "Max": 2,
@@ -5274,7 +5274,7 @@
     "Tangle": {
         "Type": "Nuke",
         "Image": "rbxassetid://75252636792874",
-        "Rarity": "Secret",
+        "Rarity": "Ethereal",
         "PlacePrice": 6500,
         "Offset": -1.2,
         "Max": 1,
@@ -5330,7 +5330,7 @@
 "Music Man": {
         "Type": "Cooldown Booster",
         "Image": "rbxassetid://77906930997624",
-        "Rarity": "Nightmare",
+        "Rarity": "Oblivion",
         "PlacePrice": 1000,
         "Offset": 0,
         "Max": 3,
@@ -5374,7 +5374,7 @@
 "Bonnet": {
         "Type": "Splash",
         "Image": "rbxassetid://110847799109792",
-        "Rarity": "Epic",
+        "Rarity": "Cursed",
         "PlacePrice": 300,
         "Offset": -1.2,
         "Max": 3,
@@ -5413,7 +5413,7 @@
 "Elizabeth": {
         "Type": "Splash Slow",
         "Image": "rbxassetid://102659257102214",
-        "Rarity": "Secret",
+        "Rarity": "Ethereal",
         "PlacePrice": 400,
         "Offset": 0,
         "Max": 3,
@@ -5458,7 +5458,7 @@
 "Endo 05": {
         "Type": "Nuke Stun",
         "Image": "rbxassetid://75720210105816",
-        "Rarity": "Nightmare",
+        "Rarity": "Oblivion",
         "PlacePrice": 54000,
         "Offset": 0.5,
         "Max": 1,
@@ -5507,7 +5507,7 @@
     "Animdude": {
         "Type": "Nuke + Passive",
         "Image": "rbxassetid://77112261441145",
-        "Rarity": "Secret",
+        "Rarity": "Ethereal",
         "PlacePrice": 4000,
         "Offset": 1.25,
         "Max": 1,
@@ -5572,7 +5572,7 @@
     "Fortified Endo 02": {
         "Type": "Cone AOE + Passive",
         "Image": "rbxassetid://86634335404738",
-        "Rarity": "Secret",
+        "Rarity": "Ethereal",
         "PlacePrice": 500,
         "Offset": 0,
         "Max": 4,
@@ -5633,7 +5633,7 @@
     "Bomber Boy": {
         "Type": "Splash",
         "Image": "rbxassetid://105906895649413",
-        "Rarity": "Secret",
+        "Rarity": "Ethereal",
         "PlacePrice": 56000,
         "Offset": 0,
         "Max": 1,
@@ -5672,7 +5672,7 @@
     "ITS ME": {
         "Type": "Cone AOE",
         "Image": "rbxassetid://120282726125561",
-        "Rarity": "Nightmare",
+        "Rarity": "Oblivion",
         "PlacePrice": 7500,
         "Offset": -1.4,
         "Max": 1,
@@ -5721,7 +5721,7 @@
 "Old Man Consequences": {
         "Type": "AOE + Passive",
         "Image": "rbxassetid://95479691284429",
-        "Rarity": "Apex",
+        "Rarity": "Eclipse",
         "PlacePrice": 11340,
         "Offset": 0.5,
         "Max": 1,
@@ -5762,7 +5762,7 @@
      "Fazbear Mafia": {
         "Type": "Splash + Summon",
         "Image": "rbxassetid://131447165249179",
-        "Rarity": "Secret",
+        "Rarity": "Ethereal",
         "PlacePrice": 8000,
         "Offset": 0.3,
         "Max": 2,
@@ -5823,7 +5823,7 @@
     "Boombox Foxy": {
         "Type": "AOE Slow and Booster",
         "Image": "rbxassetid://122976176441685",
-        "Rarity": "Secret",
+        "Rarity": "Ethereal",
         "PlacePrice": 250,
         "Offset": -0.4,
         "Max": 2,
@@ -5872,7 +5872,7 @@
     "Overclocked Puppeteer": {
         "Type": "Nuke",
         "Image": "rbxassetid://100495958746039",
-        "Rarity": "Nightmare",
+        "Rarity": "Oblivion",
         "PlacePrice": 80000,
         "Offset": -0.4,
         "Max": 2,
@@ -5913,7 +5913,7 @@
 "Eclipse Ballora": {
         "Type": "Damage + Cooldown Booster",
         "Image": "rbxassetid://87973816034102",
-        "Rarity": "Nightmare",
+        "Rarity": "Oblivion",
         "PlacePrice": 850,
         "Offset": 0,
         "Max": 3,
@@ -5964,7 +5964,7 @@
 "Jack O Cannon": {
         "Type": "Splash",
         "Image": "rbxassetid://96604370427078",
-        "Rarity": "Secret",
+        "Rarity": "Ethereal",
         "PlacePrice": 3000,
         "Offset": -0.5,
         "Max": 1,
@@ -6006,7 +6006,7 @@
 "Scarecrow Foxy": {
         "Type": "Splash Stun + Passive",
         "Image": "rbxassetid://112050273953919",
-        "Rarity": "Nightmare",
+        "Rarity": "Oblivion",
         "PlacePrice": 16000,
         "Offset": 0,
         "Max": 3,
@@ -6073,7 +6073,7 @@
  "Clowntrap": {
         "Type": "Splash Stun",
         "Image": "rbxassetid://98100058612651",
-        "Rarity": "Secret",
+        "Rarity": "Ethereal",
         "PlacePrice": 5000,
         "Offset": 0,
         "Max": 3,
@@ -6136,7 +6136,7 @@
  "Grimm Foxy": {
         "Type": "Splash Burn",
         "Image": "rbxassetid://101295016610509",
-        "Rarity": "Secret",
+        "Rarity": "Ethereal",
         "PlacePrice": 500,
         "Offset": 1,
         "Max": 3,
@@ -6187,7 +6187,7 @@
 "Dreadbear": {
         "Type": "AOE Burn + Stun",
         "Image": "rbxassetid://71876084991999",
-        "Rarity": "Nightmare",
+        "Rarity": "Oblivion",
         "PlacePrice": 51000,
         "Offset": 0,
         "Max": 1,
@@ -6245,7 +6245,7 @@
 "Jack O Bonnie": {
         "Type": "Cone AOE Burst",
         "Image": "rbxassetid://138089489409264",
-        "Rarity": "Mythic",
+        "Rarity": "Phantom",
         "PlacePrice": 6000,
         "Offset": 0,
         "Max": 3,
@@ -6299,7 +6299,7 @@
 "Jack O Endo": {
         "Type": "Continuous Burn",
         "Image": "rbxassetid://140269643382452",
-        "Rarity": "Secret",
+        "Rarity": "Ethereal",
         "PlacePrice": 17500,
         "Offset": 0,
         "Max": 3,
@@ -6350,7 +6350,7 @@
 "Jack O Chica": {
         "Type": "Splash Burn",
         "Image": "rbxassetid://127828338385715",
-        "Rarity": "Rare",
+        "Rarity": "Haunted",
         "PlacePrice": 3000,
         "Offset": 0,
         "Max": 3,
@@ -6401,7 +6401,7 @@
 "Pumpkin Balloon Boy": {
         "Type": "Splash Burn",
         "Image": "rbxassetid://114209077497389",
-        "Rarity": "Epic",
+        "Rarity": "Cursed",
         "PlacePrice": 5000,
         "Offset": 0,
         "Max": 3,
@@ -6451,7 +6451,7 @@
     "Gravelord Foxy": {
         "Type": "Summon + Pierce",
         "Image": "rbxassetid://76307842206911",
-        "Rarity": "Apex",
+        "Rarity": "Eclipse",
         "PlacePrice": 20000,
         "Offset": 0.5,
         "Max": 4,
@@ -6518,7 +6518,7 @@
 "Haunted Golden Freddy": {
         "Type": "Single",
         "Image": "rbxassetid://113183024632182",
-        "Rarity": "Mythic",
+        "Rarity": "Phantom",
         "PlacePrice": 4000,
         "Offset": -2,
         "Max": 3,
@@ -6557,7 +6557,7 @@
     "Elite Sniper Cupcake": {
         "Type": "Single",
         "Image": "rbxassetid://98140234704161",
-        "Rarity": "Rare",
+        "Rarity": "Haunted",
         "PlacePrice": 750,
         "Offset": 5,
         "Max": 3,
@@ -6596,7 +6596,7 @@
     "Enraged Toy Freddy": {
         "Type": "Single",
         "Image": "rbxassetid://80554534210979",
-        "Rarity": "Rare",
+        "Rarity": "Haunted",
         "PlacePrice": 600,
         "Offset": 0,
         "Max": 3,
@@ -6635,7 +6635,7 @@
     "Upgraded Bonnie": {
         "Type": "Continuous",
         "Image": "rbxassetid://76006977041371",
-        "Rarity": "Mythic",
+        "Rarity": "Phantom",
         "PlacePrice": 10000,
         "Offset": 0,
         "Max": 3,
@@ -6674,7 +6674,7 @@
  "Cutlass Foxy": {
         "Type": "Single",
         "Image": "rbxassetid://99151054438999",
-        "Rarity": "Rare",
+        "Rarity": "Haunted",
         "PlacePrice": 600,
         "Offset": 0,
         "Max": 3,
@@ -6713,7 +6713,7 @@
 "Cool Toy Bonnie": {
         "Type": "Single",
         "Image": "rbxassetid://102583887192750",
-        "Rarity": "Epic",
+        "Rarity": "Cursed",
         "PlacePrice": 750,
         "Offset": 0,
         "Max": 3,
@@ -6752,7 +6752,7 @@
 "Demolition Toy Chica": {
         "Type": "Splash",
         "Image": "rbxassetid://117417835066117",
-        "Rarity": "Epic",
+        "Rarity": "Cursed",
         "PlacePrice": 1250,
         "Offset": 0,
         "Max": 3,
@@ -6869,7 +6869,7 @@
 "Dino Withered Chica": {
         "Type": "Single",
         "Image": "rbxassetid://131013206661426",
-        "Rarity": "Epic",
+        "Rarity": "Cursed",
         "PlacePrice": 500,
         "Offset": 0,
         "Max": 3,
@@ -6908,7 +6908,7 @@
 "Blighted Endo Bonnie": {
         "Type": "AOE",
         "Image": "rbxassetid://100997380896121",
-        "Rarity": "Nightmare",
+        "Rarity": "Oblivion",
         "PlacePrice": 27500,
         "Offset": 0.5,
         "Max": 2,
@@ -6964,7 +6964,7 @@
     "Super Freddy": {
         "Type": "Pierce",
         "Image": "rbxassetid://92313535673690",
-        "Rarity": "Nightmare",
+        "Rarity": "Oblivion",
         "PlacePrice": 30000,
         "Offset": 0,
         "Max": 2,
@@ -7012,7 +7012,7 @@
     "Juggernaut Bonnie": {
         "Type": "Continuous Splash + Passive",
         "Image": "rbxassetid://101410205353650",
-        "Rarity": "Nightmare",
+        "Rarity": "Oblivion",
         "PlacePrice": 65000,
         "Offset": 0.4,
         "Max": 1,
@@ -7052,7 +7052,7 @@
     "Nightguard Afton": {
         "Type": "Cone AOE Slow + Poison",
         "Image": "rbxassetid://105795940597453",
-        "Rarity": "Secret",
+        "Rarity": "Ethereal",
         "PlacePrice": 550,
         "Offset": 0,
         "Max": 3,
@@ -7108,7 +7108,7 @@
     "President Freddy": {
         "Type": "Splash",
         "Image": "rbxassetid://133399431749556",
-        "Rarity": "Secret",
+        "Rarity": "Ethereal",
         "PlacePrice": 300,
         "Offset": 0,
         "Max": 4,
@@ -7147,7 +7147,7 @@
 "Sharpshooter Puppet": {
         "Type": "Pierce",
         "Image": "rbxassetid://122218118663611",
-        "Rarity": "Secret",
+        "Rarity": "Ethereal",
         "PlacePrice": 10000,
         "Offset": 0,
         "Max": 3,
@@ -7187,7 +7187,7 @@
     "Augmented Endo": {
         "Type": "Single",
         "Image": "rbxassetid://135702265461354",
-        "Rarity": "Epic",
+        "Rarity": "Cursed",
         "PlacePrice": 600,
         "Max": 4,
         "hitboxOffset": {
@@ -7227,7 +7227,7 @@
     "Ghastly Phantom Freddy": {
         "Type": "Single",
         "Image": "rbxassetid://107487482857244",
-        "Rarity": "Secret",
+        "Rarity": "Ethereal",
         "PlacePrice": 10000,
         "Offset": 0,
         "Max": 3,
@@ -7267,7 +7267,7 @@
     "Lefty": {
         "Type": "AOE + Summon",
         "Image": "rbxassetid://71854603701229",
-        "Rarity": "Nightmare",
+        "Rarity": "Oblivion",
         "PlacePrice": 10000,
         "Offset": 0,
         "Max": 3,
@@ -7312,7 +7312,7 @@
     "Rockstar Freddy": {
         "Type": "Splash",
         "Image": "rbxassetid://115841320633400",
-        "Rarity": "Rare",
+        "Rarity": "Haunted",
         "PlacePrice": 600,
         "Offset": 0,
         "Max": 3,
@@ -7351,7 +7351,7 @@
     "Rockstar Chica": {
         "Type": "Splash",
         "Image": "rbxassetid://136650589101234",
-        "Rarity": "Epic",
+        "Rarity": "Cursed",
         "PlacePrice": 3000,
         "Offset": 0,
         "Max": 3,
@@ -7391,7 +7391,7 @@
     "Rockstar Bonnie": {
         "Type": "Cone AOE",
         "Image": "rbxassetid://134586861865689",
-        "Rarity": "Mythic",
+        "Rarity": "Phantom",
         "PlacePrice": 8000,
         "Offset": 0,
         "Max": 3,
@@ -7431,7 +7431,7 @@
     "Rockstar Foxy": {
         "Type": "AOE + Booster",
         "Image": "rbxassetid://94327478010876",
-        "Rarity": "Secret",
+        "Rarity": "Ethereal",
         "PlacePrice": 15000,
         "NoEnemyAttack": true,
         "Offset": 0,
@@ -7479,7 +7479,7 @@
     "Helpy": {
         "Type": "Damage + Range Booster",
         "Image": "rbxassetid://135679216615409",
-        "Rarity": "Nightmare",
+        "Rarity": "Oblivion",
         "PlacePrice": 800,
         "Offset": -0.75,
         "Max": 3,
@@ -7527,7 +7527,7 @@
     "Molten Freddy": {
         "Type": "Explosion Burn",
         "Image": "rbxassetid://72496434217414",
-        "Rarity": "Secret",
+        "Rarity": "Ethereal",
         "PlacePrice": 17500,
         "Offset": -0.75,
         "Max": 3,
@@ -7577,7 +7577,7 @@
     "Security Puppet": {
         "Type": "Pierce + Slow",
         "Image": "rbxassetid://85978475503613",
-        "Rarity": "Secret",
+        "Rarity": "Ethereal",
         "PlacePrice": 12500,
         "Offset": 0,
         "Max": 2,
@@ -7647,7 +7647,7 @@
     "Scrap Baby": {
         "Type": "AOE + Wither",
         "Image": "rbxassetid://96792758281792",
-        "Rarity": "Nightmare",
+        "Rarity": "Oblivion",
         "PlacePrice": 6000,
         "Offset": 0,
         "Max": 2,
@@ -7701,7 +7701,7 @@
     "Bucket Bob": {
         "Type": "AOE + Slow",
         "Image": "rbxassetid://126581484399291",
-        "Rarity": "Secret",
+        "Rarity": "Ethereal",
         "PlacePrice": 300,
         "Offset": -0.925,
         "Max": 4,
@@ -7751,7 +7751,7 @@
     "Jar of Pickles": {
         "Type": "Booster + Slow",
         "Image": "rbxassetid://98177156677827",
-        "Rarity": "Nightmare",
+        "Rarity": "Oblivion",
         "PlacePrice": 3000,
         "Offset": -2,
         "Max": 2,
@@ -7805,7 +7805,7 @@
     "Number 1 Crate": {
         "Type": "AOE",
         "Image": "rbxassetid://75811990729586",
-        "Rarity": "Epic",
+        "Rarity": "Cursed",
         "PlacePrice": 500,
         "Offset": -2.25,
         "Max": 3,
@@ -7845,7 +7845,7 @@
     "Scraptrap": {
         "Type": "Pierce",
         "Image": "rbxassetid://101802698966800",
-        "Rarity": "Nightmare",
+        "Rarity": "Oblivion",
         "PlacePrice": 11000,
         "Offset": 0,
         "Max": 3,
@@ -7886,7 +7886,7 @@
     "Popstar Chica": {
         "Type": "AOE + Damage Boost",
         "Image": "rbxassetid://122725475592106",
-        "Rarity": "Nightmare",
+        "Rarity": "Oblivion",
         "PlacePrice": 12000,
         "Offset": -5,
         "Max": 2,
@@ -7933,7 +7933,7 @@
     "Overseer Foxy": {
         "Type": "Splash Slow + Passive",
         "Image": "rbxassetid://75863350712625",
-        "Rarity": "Nightmare",
+        "Rarity": "Oblivion",
         "PlacePrice": 6000,
         "Offset": -3.25,
         "Max": 3,
@@ -7976,7 +7976,7 @@
     "Mr Can Do": {
         "Type": "Single",
         "Image": "rbxassetid://127532360538478",
-        "Rarity": "Secret",
+        "Rarity": "Ethereal",
         "PlacePrice": 700,
         "Offset": -1.75,
         "Max": 3,
@@ -8022,7 +8022,7 @@
     "Geared Endo": {
         "Type": "Splash Continuous",
         "Image": "rbxassetid://89920479623802",
-        "Rarity": "Secret",
+        "Rarity": "Ethereal",
         "PlacePrice": 15000,
         "Offset": 0,
         "Max": 3,
@@ -8063,7 +8063,7 @@
     "Duelist Puppet": {
         "Type": "Pierce Slow",
         "Image": "rbxassetid://127027664698206",
-        "Rarity": "Nightmare",
+        "Rarity": "Oblivion",
         "PlacePrice": 33000,
         "Offset": 0,
         "Max": 2,
@@ -8114,7 +8114,7 @@
     "Mechanical Freddy": {
         "Type": "Single",
         "Image": "rbxassetid://116234603453447",
-        "Rarity": "Epic",
+        "Rarity": "Cursed",
         "PlacePrice": 2750,
         "Offset": -2,
         "Max": 3,
@@ -8155,7 +8155,7 @@
     "Brawler Foxy": {
         "Type": "Single",
         "Image": "rbxassetid://105737871914622",
-        "Rarity": "Rare",
+        "Rarity": "Haunted",
         "PlacePrice": 600,
         "Offset": 0,
         "Max": 3,
@@ -8195,7 +8195,7 @@
     "Steampunk Mangle": {
         "Type": "Splash",
         "Image": "rbxassetid://79766987241564",
-        "Rarity": "Secret",
+        "Rarity": "Ethereal",
         "PlacePrice": 11000,
         "Offset": -2,
         "Max": 3,
@@ -8235,7 +8235,7 @@
     "Diver Endo": {
         "Type": "Slash + Slow",
         "Image": "rbxassetid://123144805229790",
-        "Rarity": "Nightmare",
+        "Rarity": "Oblivion",
         "PlacePrice": 27000,
         "Offset": 0,
         "Max": 3,
@@ -8285,7 +8285,7 @@
     "Mechanic Afton": {
         "Type": "Cone AOE + Summon",
         "Image": "rbxassetid://130168982034034",
-        "Rarity": "Secret",
+        "Rarity": "Ethereal",
         "PlacePrice": 600,
         "Offset": 0,
         "Max": 3,
@@ -8338,7 +8338,7 @@
     "Kronos Endo Freddy": {
         "Type": "Nuke Stun + Passive",
         "Image": "rbxassetid://138634254895239",
-        "Rarity": "Apex",
+        "Rarity": "Eclipse",
         "PlacePrice": 50000,
         "Offset": 0,
         "Max": 1,
@@ -8387,7 +8387,7 @@
     "Windup Bonnie": {
         "Type": "Cooldown Booster",
         "Image": "rbxassetid://95407534025882",
-        "Rarity": "Mythic",
+        "Rarity": "Phantom",
         "PlacePrice": 1200,
         "Offset": 0,
         "Max": 3,
@@ -8431,7 +8431,7 @@
     "Widow Baby": {
         "Type": "Cone AOE",
         "Image": "rbxassetid://88651417030551",
-        "Rarity": "Nightmare",
+        "Rarity": "Oblivion",
         "PlacePrice": 38000,
         "Offset": 0,
         "Max": 2,
@@ -8471,7 +8471,7 @@
     "StoneTrap": {
         "Type": "Cone AOE Burn",
         "Image": "rbxassetid://102592059060827",
-        "Rarity": "Nightmare",
+        "Rarity": "Oblivion",
         "PlacePrice": 25000,
         "Offset": 0,
         "Max": 2,
@@ -8518,7 +8518,7 @@
     "Tarnished Fredbear": {
         "Type": "Cone AOE + Passive",
         "Image": "rbxassetid://87312476983878",
-        "Rarity": "Secret",
+        "Rarity": "Ethereal",
         "PlacePrice": 600,
         "Offset": 0,
         "Max": 3,
@@ -8566,7 +8566,7 @@
     "Gladiator Foxy": {
         "Type": "Cone AOE",
         "Image": "rbxassetid://75495154036126",
-        "Rarity": "Secret",
+        "Rarity": "Ethereal",
         "PlacePrice": 600,
         "Offset": 0,
         "Max": 3,
@@ -8605,7 +8605,7 @@
     "Dark Knight Puppet": {
         "Type": "AOE + Passive",
         "Image": "rbxassetid://86604943457071",
-        "Rarity": "Apex",
+        "Rarity": "Eclipse",
         "PlacePrice": 70000,
         "Offset": 0,
         "Max": 2,
@@ -8653,7 +8653,7 @@
     "The King": {
         "Type": "Pierce Spread",
         "Image": "rbxassetid://95564353539990",
-        "Rarity": "Nightmare",
+        "Rarity": "Oblivion",
         "PlacePrice": 60000,
         "Offset": 0,
         "Max": 1,
@@ -8693,7 +8693,7 @@
 "Freddy Frostbear": {
         "Type": "Pierce Slow + Passive",
         "Image": "rbxassetid://130800122285848",
-        "Rarity": "Secret",
+        "Rarity": "Ethereal",
         "PlacePrice": 400,
         "Offset": 0.25,
         "Max": 3,
@@ -8741,7 +8741,7 @@
     "Dark Frostbear": {
         "Type": "Cone AOE Slow + Passive",
         "Image": "rbxassetid://79281029634533",
-        "Rarity": "Forsaken",
+        "Rarity": "Abyssal",
         "PlacePrice": 400,
         "Offset": 0.25,
         "Max": 3,
@@ -8789,7 +8789,7 @@
     "Reindeer Withered Bonnie": {
         "Type": "Continuous",
         "Image": "rbxassetid://128903190044752",
-        "Rarity": "Secret",
+        "Rarity": "Ethereal",
          "PlacePrice": 14500,
         "Offset": 0,
         "Max": 3,
@@ -8828,7 +8828,7 @@
     "Jolly Shadow Bonnie": {
         "Type": "AOE + Slow",
         "Image": "rbxassetid://89683904091075",
-        "Rarity": "Nightmare",
+        "Rarity": "Oblivion",
         "PlacePrice": 22000,
         "Offset": 0,
         "Max": 2,
@@ -8876,7 +8876,7 @@
     "Frost Queen Ballora": {
         "Type": "Cooldown Boost + Passive",
         "Image": "rbxassetid://134318454455185",
-        "Rarity": "Nightmare",
+        "Rarity": "Oblivion",
         "PlacePrice": 2000,
         "Offset": 0.5,
         "Max": 2,
@@ -8933,7 +8933,7 @@
     "Present Boy": {
         "Type": "Splash",
         "Image": "rbxassetid://107970281144022",
-        "Rarity": "Epic",
+        "Rarity": "Cursed",
         "PlacePrice": 750,
         "Offset": 0,
         "Max": 3,
@@ -8972,7 +8972,7 @@
     "Black Ice Freddy": {
         "Type": "Cone AOE + Slow",
         "Image": "rbxassetid://86213031666835",
-        "Rarity": "Apex",
+        "Rarity": "Eclipse",
         "PlacePrice": 30000,
         "Offset": 0.65,
         "Max": 2,
@@ -9020,7 +9020,7 @@
     "Icetrap": {
         "Type": "Pierce Spread + Slow",
         "Image": "rbxassetid://135737173585938",
-        "Rarity": "Nightmare",
+        "Rarity": "Oblivion",
         "PlacePrice": 9500,
         "Offset": 0.25,
         "Max": 2,
@@ -9068,7 +9068,7 @@
     "Nutcracker Chica": {
         "Type": "Single",
         "Image": "rbxassetid://139406919744982",
-        "Rarity": "Mythic",
+        "Rarity": "Phantom",
         "PlacePrice": 1500,
         "Offset": -1,
         "Max": 3,
@@ -9107,7 +9107,7 @@
     "Overlord Scott": {
         "Type": "Nuke + Stun",
         "Image": "rbxassetid://135915053690231",
-        "Rarity": "Nightmare",
+        "Rarity": "Oblivion",
         "PlacePrice": 16000,
         "Offset": -1,
         "Max": 1,
@@ -9155,7 +9155,7 @@
     "Bouncer": {
         "Type": "Cone AOE + Slow",
         "Image": "rbxassetid://111690369757083",
-        "Rarity": "Nightmare",
+        "Rarity": "Oblivion",
         "PlacePrice": 4000,
         "Offset": 0.75,
         "Max": 2,
@@ -9203,7 +9203,7 @@
     "Frostbite Freddy": {
         "Type": "Pierce Spread + Slow",
         "Image": "rbxassetid://105411536427656",
-        "Rarity": "Apex",
+        "Rarity": "Eclipse",
         "PlacePrice": 30000,
         "Offset": 0.65,
         "Max": 1,
@@ -9255,7 +9255,7 @@
     "Frost Plushtrap": {
         "Type": "Splash Slow",
         "Image": "rbxassetid://83475745010763",
-        "Rarity": "Secret",
+        "Rarity": "Ethereal",
         "PlacePrice": 3500,
         "Offset": 0,
         "Max": 3,
@@ -9302,7 +9302,7 @@
     "Winter Soldier Bonnie": {
         "Type": "Pierce + Stun",
         "Image": "rbxassetid://124730858766216",
-        "Rarity": "Nightmare",
+        "Rarity": "Oblivion",
         "PlacePrice": 7500,
         "Offset": 0,
         "Max": 3,
@@ -9350,7 +9350,7 @@
     "Old Man Krampus": {
         "Type": "AOE Slow + Passive",
         "Image": "rbxassetid://138508234321719",
-        "Rarity": "Apex",
+        "Rarity": "Eclipse",
         "PlacePrice": 17743,
         "Offset": 0,
         "Max": 1,
@@ -9419,7 +9419,7 @@
     "Glamrock Freddy": {
         "Type": "Splash",
         "Image": "rbxassetid://136791971118007",
-        "Rarity": "Rare",
+        "Rarity": "Haunted",
         "PlacePrice": 500,
         "Offset": 0.5,
         "Max": 3,
@@ -9458,7 +9458,7 @@
     "Glamrock Chica": {
         "Type": "Splash",
         "Image": "rbxassetid://113567040447471",
-        "Rarity": "Epic",
+        "Rarity": "Cursed",
         "PlacePrice": 2500,
         "Offset": 0.5,
         "Max": 3,
@@ -9498,7 +9498,7 @@
     "Roxanne Wolf": {
         "Type": "Pierce",
         "Image": "rbxassetid://130600731757622",
-        "Rarity": "Mythic",
+        "Rarity": "Phantom",
         "PlacePrice": 5000,
         "Offset": 0.3,
         "Max": 2,
@@ -9538,7 +9538,7 @@
     "Montgomery Gator": {
         "Type": "Cone AOE Continuous",
         "Image": "rbxassetid://107200001609382",
-        "Rarity": "Secret",
+        "Rarity": "Ethereal",
         "PlacePrice": 17000,
         "Offset": 0.5,
         "Max": 2,
@@ -9578,7 +9578,7 @@
     "Sunshine": {
         "Type": "AOE Burn",
         "Image": "rbxassetid://73088362644228",
-        "Rarity": "Secret",
+        "Rarity": "Ethereal",
         "PlacePrice": 14000,
         "Offset": 0.5,
         "Max": 2,
@@ -9626,7 +9626,7 @@
     "Moondrop": {
         "Type": "AOE Stun",
         "Image": "rbxassetid://123157660320018",
-        "Rarity": "Nightmare",
+        "Rarity": "Oblivion",
         "PlacePrice": 6000,
         "Offset": 0.5,
         "Max": 1,
@@ -9675,7 +9675,7 @@
     "DJ Music Man": {
         "Type": "Cooldown + Range Boost",
         "Image": "rbxassetid://92862090905850",
-        "Rarity": "Nightmare",
+        "Rarity": "Oblivion",
         "PlacePrice": 1000,
         "Offset": 1,
         "Max": 1,
@@ -9723,7 +9723,7 @@
 "Exotic Butters": {
         "Type": "AOE",
         "Image": "rbxassetid://91688843147628",
-        "Rarity": "Nightmare",
+        "Rarity": "Oblivion",
         "PlacePrice": 30000,
         "Offset": -2,
         "Max": 1,
@@ -9768,7 +9768,7 @@
     "Wet Floor Bot": {
         "Type": "AOE + Cooldown Boost",
         "Image": "rbxassetid://127516376865863",
-        "Rarity": "Secret",
+        "Rarity": "Ethereal",
         "PlacePrice": 400,
         "Offset": -1.75,
         "Max": 3,
@@ -9813,7 +9813,7 @@
     "Stardrop": {
         "Type": "Pierce + Passive",
         "Image": "rbxassetid://107273207289047",
-        "Rarity": "Nightmare",
+        "Rarity": "Oblivion",
         "PlacePrice": 32000,
         "Offset": 0,
         "Max": 2,
@@ -9858,7 +9858,7 @@
     "Coffee": {
         "Type": "Damage + Cooldown Boost",
         "Image": "rbxassetid://131733393221448",
-        "Rarity": "Forsaken",
+        "Rarity": "Abyssal",
         "PlacePrice": 400,
         "Offset": -0.3,
         "Max": 8,
@@ -9907,7 +9907,7 @@
     "Gilded Knight": {
         "Type": "AOE + Passive",
         "Image": "rbxassetid://120947166823124",
-        "Rarity": "Apex",
+        "Rarity": "Eclipse",
         "PlacePrice": 30000,
         "Offset": 0,
         "Max": 2,
@@ -9960,7 +9960,7 @@
     "Glamrock Endo": {
         "Type": "Damage Boost",
         "Image": "rbxassetid://99936011662010",
-        "Rarity": "Secret",
+        "Rarity": "Ethereal",
         "PlacePrice": 800,
         "NoEnemyAttack": true,
         "Offset": 0.7,
@@ -10004,7 +10004,7 @@
     "Shadow of Afton": {
         "Type": "Cone AOE + Passive",
         "Image": "rbxassetid://78940990099734",
-        "Rarity": "Nightmare",
+        "Rarity": "Oblivion",
         "PlacePrice": 14500,
         "Offset": 0,
         "Max": 2,
@@ -10044,7 +10044,7 @@
     "Blighted Foxy": {
         "Type": "Slash + Wither",
         "Image": "rbxassetid://111513747219820",
-        "Rarity": "Nightmare",
+        "Rarity": "Oblivion",
         "PlacePrice": 17500,
         "Offset": 0.4,
         "Max": 2,
@@ -10096,7 +10096,7 @@
     "Titan Crusher Freddy": {
         "Type": "AOE + Passive",
         "Image": "rbxassetid://78775426136136",
-        "Rarity": "Apex",
+        "Rarity": "Eclipse",
         "PlacePrice": 80000,
         "Offset": 0.3,
         "Max": 1,
@@ -10140,7 +10140,7 @@
     "Archer Fredeus": {
         "Type": "Single",
         "Image": "rbxassetid://113101409953014",
-        "Rarity": "Epic",
+        "Rarity": "Cursed",
         "PlacePrice": 300,
         "Offset": 0,
         "Max": 5,
@@ -10179,7 +10179,7 @@
     "Ares Endoxus": {
         "Type": "Pierce",
         "Image": "rbxassetid://97883839997626",
-        "Rarity": "Nightmare",
+        "Rarity": "Oblivion",
         "PlacePrice": 15000,
         "Offset": 0,
         "Max": 3,
@@ -10219,7 +10219,7 @@
         "Type": "Cone AOE + Slow",
         "Image": "rbxassetid://80289284808475",
         "Passive": {"Name": "Slow", "Description": "Attacks slow enemies by 25%"},
-        "Rarity": "Secret",
+        "Rarity": "Ethereal",
         "PlacePrice": 9000,
         "Offset": 0,
         "Max": 2,
@@ -10267,7 +10267,7 @@
         "Type": "Splash + Booster",
         "Image": "rbxassetid://83624388314614",
         "Passive": {"Name": "Cooldown Boost", "Description": "All units in range recieve -26% cooldown"},
-        "Rarity": "Mythic",
+        "Rarity": "Phantom",
         "PlacePrice": 10000,
         "NoEnemyAttack": true,
         "Offset": 0.4,
@@ -10311,7 +10311,7 @@
     "Forge Withered Bonnie": {
         "Type": "Splash + Burn",
         "Image": "rbxassetid://77325921551661",
-        "Rarity": "Nightmare",
+        "Rarity": "Oblivion",
         "PlacePrice": 10000,
         "Offset": 0,
         "Max": 2,
@@ -10358,7 +10358,7 @@
     "Zeus Fredeus": {
         "Type": "Splash",
         "Image": "rbxassetid://135540199495231",
-        "Rarity": "Secret",
+        "Rarity": "Ethereal",
         "PlacePrice": 500,
         "Offset": 0,
         "Max": 3,
@@ -10406,7 +10406,7 @@
     "Kingtrap": {
         "Type": "Booster + Passive",
         "Image": "rbxassetid://85624068831283",
-        "Rarity": "Nightmare",
+        "Rarity": "Oblivion",
         "PlacePrice": 1200,
         "NoEnemyAttack": true,
         "Offset": 0,
@@ -10455,7 +10455,7 @@
     "Apollo's Sun": {
         "Type": "Nuke + Anti Heal",
         "Image": "rbxassetid://120968472381141",
-        "Rarity": "Apex",
+        "Rarity": "Eclipse",
         "PlacePrice": 35000,
         "Offset": 0,
         "Max": 2,
@@ -10511,7 +10511,7 @@
     "Gaia Chica": {
         "Type": "Pierce Spread + Traps",
         "Image": "rbxassetid://137838669403437",
-        "Rarity": "Forsaken",
+        "Rarity": "Abyssal",
         "PlacePrice": 50000,
         "NoEnemyAttack": true,
         "Offset": 0,
@@ -10552,7 +10552,7 @@
     "Forest Nymph Bonnie": {
         "Type": "Splash + Stun",
         "Image": "rbxassetid://98536829599815",
-        "Rarity": "Secret",
+        "Rarity": "Ethereal",
         "PlacePrice": 15000,
         "Offset": 0,
         "Max": 2,
@@ -10599,7 +10599,7 @@
     "Glamrock Bonnie": {
         "Type": "Cone AOE + Passive",
         "Image": "rbxassetid://111634413490207",
-        "Rarity": "Nightmare",
+        "Rarity": "Oblivion",
         "PlacePrice": 42000,
         "Offset": 0,
         "Max": 2,
@@ -10651,7 +10651,7 @@
     "Apollo's Moon": {
         "Type": "Nuke + Passive",
         "Image": "rbxassetid://92233400124489",
-        "Rarity": "Apex",
+        "Rarity": "Eclipse",
         "PlacePrice": 40000,
         "Offset": 0,
         "Max": 1,
@@ -10711,7 +10711,7 @@
     "Soulmate Puppet": {
         "Type": "Splash + Passive",
         "Image": "rbxassetid://127566861240944",
-        "Rarity": "Nightmare",
+        "Rarity": "Oblivion",
         "PlacePrice": 20000,
         "Offset": -0.4,
         "Max": 2,
@@ -10765,7 +10765,7 @@
     "Ruined Glamrock Bonnie": {
         "Type": "AOE",
         "Image": "rbxassetid://85309483901437",
-        "Rarity": "Secret",
+        "Rarity": "Ethereal",
         "PlacePrice": 15000,
         "Offset": 0,
         "Max": 2,
@@ -10804,7 +10804,7 @@
     "Eclipse": {
         "Type": "Single",
         "Image": "rbxassetid://91251907054257",
-        "Rarity": "Mythic",
+        "Rarity": "Phantom",
         "PlacePrice": 3000,
         "Offset": 0,
         "Max": 3,
@@ -10843,7 +10843,7 @@
     "The Mimic": {
         "Type": "Slash",
         "Image": "rbxassetid://108843809969916",
-        "Rarity": "Secret",
+        "Rarity": "Ethereal",
         "PlacePrice": 16000,
         "Offset": 0,
         "Max": 2,
@@ -10882,7 +10882,7 @@
     "Vanny": {
         "Type": "Pierce Spread + Slow",
         "Image": "rbxassetid://86358962940619",
-        "Rarity": "Nightmare",
+        "Rarity": "Oblivion",
         "PlacePrice": 6000,
         "Offset": 0,
         "Max": 2,
@@ -10930,7 +10930,7 @@
     "Burntrap": {
         "Type": "Splash + Anti Regen",
         "Image": "rbxassetid://120446334712341",
-        "Rarity": "Nightmare",
+        "Rarity": "Oblivion",
         "PlacePrice": 18000,
         "Offset": 0,
         "Max": 2,
@@ -10979,7 +10979,7 @@
    "8-Bit OMC": {
         "Type": "AOE",
         "Image": "rbxassetid://78679487650695",
-        "Rarity": "Nightmare",
+        "Rarity": "Oblivion",
         "PlacePrice": 11340,
         "Offset": 0,
         "Max": 1,
@@ -11019,7 +11019,7 @@
     "Candy Cadet": {
         "Type": "Cooldown Boost",
         "Image": "rbxassetid://104356297194309",
-        "Rarity": "Nightmare",
+        "Rarity": "Oblivion",
         "PlacePrice": 500,
         "Offset": 0,
         "Max": 3,
@@ -11060,10 +11060,10 @@
             }
         ]
     },
-    "Nightmare Bot": {
+    "Oblivion Bot": {
         "Type": "Cone AOE",
         "Image": "rbxassetid://122930850408296",
-        "Rarity": "Epic",
+        "Rarity": "Cursed",
         "PlacePrice": 600,
         "Offset": 0,
         "Max": 3,
@@ -11102,7 +11102,7 @@
     "Fan": {
         "Type": "Cone AOE + Slow",
         "Image": "rbxassetid://70879844361967",
-        "Rarity": "Secret",
+        "Rarity": "Ethereal",
         "PlacePrice": 250,
         "Offset": -1,
         "Max": 3,
@@ -11150,7 +11150,7 @@
     "The Princess": {
         "Type": "Damage + Range Booster",
         "Image": "rbxassetid://81703563273569",
-        "Rarity": "Secret",
+        "Rarity": "Ethereal",
         "PlacePrice": 650,
         "Offset": 0,
         "Max": 3,
@@ -11198,7 +11198,7 @@
     "Flaming Springtrap": {
         "Type": "Splash Burn + Slow",
         "Image": "rbxassetid://90439626995960",
-        "Rarity": "Nightmare",
+        "Rarity": "Oblivion",
         "PlacePrice": 16000,
         "Offset": 0,
         "Max": 2,
@@ -11254,7 +11254,7 @@
     "Queen of Hearts Ballora": {
         "Type": "Pierce + Passive",
         "Image": "rbxassetid://120386866285195",
-        "Rarity": "Forsaken",
+        "Rarity": "Abyssal",
         "PlacePrice": 60000,
         "Offset": 0,
         "Max": 1,
@@ -11294,7 +11294,7 @@
     "Sorcerer Ennard": {
         "Type": "Splash",
         "Image": "rbxassetid://108071824061545",
-        "Rarity": "Nightmare",
+        "Rarity": "Oblivion",
         "PlacePrice": 21000,
         "Offset": 0,
         "Max": 2,
@@ -11333,7 +11333,7 @@
     "Great Escape Freddy": {
         "Type": "AOE + Slow",
         "Image": "rbxassetid://103794950872304",
-        "Rarity": "Secret",
+        "Rarity": "Ethereal",
         "PlacePrice": 11000,
         "Offset": 0,
         "Max": 2,
@@ -11389,7 +11389,7 @@
     "Dread Pirate Foxy": {
         "Type": "Splash + Stun",
         "Image": "rbxassetid://119908435134121",
-        "Rarity": "Nightmare",
+        "Rarity": "Oblivion",
         "PlacePrice": 5000,
         "Offset": 0.45,
         "Max": 2,
@@ -11437,7 +11437,7 @@
     "Planet Buster Scott": {
         "Type": "Nuke Stun + Passive",
         "Image": "rbxassetid://89049349505606",
-        "Rarity": "Apex",
+        "Rarity": "Eclipse",
         "PlacePrice": 70000,
         "Offset": 1,
         "Max": 1,
@@ -11485,7 +11485,7 @@
     "Spring Trooper": {
         "Type": "CONE AOE + Anti Regen",
         "Image": "rbxassetid://124509672214842",
-        "Rarity": "Nightmare",
+        "Rarity": "Oblivion",
         "PlacePrice": 6000,
         "Offset": 0,
         "Max": 3,
@@ -11533,7 +11533,7 @@
     "Android Mangle": {
         "Type": "Splash Continuous",
         "Image": "rbxassetid://114065925105074",
-        "Rarity": "Nightmare",
+        "Rarity": "Oblivion",
         "PlacePrice": 10000,
         "Offset": 0,
         "Max": 2,
@@ -11572,7 +11572,7 @@
     "Raider Freddy": {
         "Type": "Cone AOE",
         "Image": "rbxassetid://73048377720930",
-        "Rarity": "Epic",
+        "Rarity": "Cursed",
         "PlacePrice": 600,
         "Offset": 0,
         "Max": 4,
@@ -11611,7 +11611,7 @@
     "Overseer Lolbit": {
         "Type": "Damage + Cooldown Boost",
         "Image": "rbxassetid://139829283293732",
-        "Rarity": "Nightmare",
+        "Rarity": "Oblivion",
         "PlacePrice": 800,
         "Offset": 0,
         "Max": 3,
@@ -11659,7 +11659,7 @@
     "Alien Helpy": {
         "Type": "Splash",
         "Image": "rbxassetid://139505346452682",
-        "Rarity": "Secret",
+        "Rarity": "Ethereal",
         "PlacePrice": 450,
         "Offset": 0,
         "Max": 3,
@@ -11704,7 +11704,7 @@
     "Cosplushtrap": {
         "Type": "Cooldown + Range Boost",
         "Image": "rbxassetid://95716821507565",
-        "Rarity": "Mythic",
+        "Rarity": "Phantom",
         "PlacePrice": 1000,
         "Offset": 0,
         "Max": 2,
@@ -11752,7 +11752,7 @@
     "Speed Dial": {
         "Type": "Pierce + Summon",
         "Image": "rbxassetid://76229204396312",
-        "Rarity": "Apex",
+        "Rarity": "Eclipse",
         "PlacePrice": 55000,
         "Offset": 0.5,
         "Max": 3,
@@ -11813,7 +11813,7 @@
     "Bear5": {
         "Type": "bear5",
         "Image": "rbxassetid://111268061255623",
-        "Rarity": "Nightmare",
+        "Rarity": "Oblivion",
         "PlacePrice": 555,
         "Offset": 0,
         "Max": 5,
@@ -11861,7 +11861,7 @@
     "Michael Afton": {
         "Type": "Trapper",
         "Image": "rbxassetid://114032714827197",
-        "Rarity": "Nightmare",
+        "Rarity": "Oblivion",
         "PlacePrice": 9000,
         "Offset": 0,
         "Max": 3,
@@ -11906,7 +11906,7 @@
     "Michael's Demise": {
         "Type": "Cone AOE + True Stun",
         "Image": "rbxassetid://113159149163905",
-        "Rarity": "Forsaken",
+        "Rarity": "Abyssal",
         "PlacePrice": 65000,
         "Offset": 0,
         "Max": 1,
@@ -11950,7 +11950,7 @@
     "Steve Raglan": {
         "Type": "CONE AOE + Anti Regen",
         "Image": "rbxassetid://73876097031973",
-        "Rarity": "Nightmare",
+        "Rarity": "Oblivion",
         "PlacePrice": 14000,
         "Offset": 0,
         "Max": 2,
@@ -11998,7 +11998,7 @@
     "HandUnit": {
         "Type": "Triple Boost",
         "Image": "rbxassetid://132341684644708",
-        "Rarity": "Secret",
+        "Rarity": "Ethereal",
         "PlacePrice": 1500,
         "Offset": 0,
         "Max": 3,
@@ -12051,7 +12051,7 @@
     "Orville": {
         "Type": "Splash + Slow",
         "Image": "rbxassetid://97997092352387",
-        "Rarity": "Secret",
+        "Rarity": "Ethereal",
         "PlacePrice": 15000,
         "Offset": -1.2,
         "Max": 2,
@@ -12099,7 +12099,7 @@
     "Nedd Bear": {
         "Type": "Cone AOE + Stun",
         "Image": "rbxassetid://132984353966246",
-        "Rarity": "Mythic",
+        "Rarity": "Phantom",
         "PlacePrice": 10000,
         "Offset": 0,
         "Max": 3,
@@ -12146,7 +12146,7 @@
     "Pig Patch": {
         "Type": "Cone AOE",
         "Image": "rbxassetid://101703628765404",
-        "Rarity": "Epic",
+        "Rarity": "Cursed",
         "PlacePrice": 500,
         "Offset": 0,
         "Max": 3,
@@ -12185,7 +12185,7 @@
     "Happy Frog": {
         "Type": "Range Booster",
         "Image": "rbxassetid://106312352744687",
-        "Rarity": "Secret",
+        "Rarity": "Ethereal",
         "PlacePrice": 650,
         "Offset": 0,
         "Max": 3,
@@ -12229,7 +12229,7 @@
     "El Chip": {
         "Type": "Triple Boost",
         "Image": "rbxassetid://90676082223007",
-        "Rarity": "Nightmare",
+        "Rarity": "Oblivion",
         "PlacePrice": 1250,
         "Offset": 0,
         "Max": 3,
@@ -12282,7 +12282,7 @@
     "XOR": {
         "Type": "Cone AOE + Poison",
         "Image": "rbxassetid://127369273439025",
-        "Rarity": "Nightmare",
+        "Rarity": "Oblivion",
         "PlacePrice": 19000,
         "Offset": 0,
         "Max": 2,
@@ -12329,7 +12329,7 @@
     "Dee Dee": {
         "Type": "Nuke + Stun",
         "Image": "rbxassetid://120034059081977",
-        "Rarity": "Nightmare",
+        "Rarity": "Oblivion",
         "PlacePrice": 6000,
         "Offset": 0,
         "Max": 1,
@@ -12377,7 +12377,7 @@
     "MXES": {
         "Type": "AOE Slow + Poison",
         "Image": "rbxassetid://81772315176647",
-        "Rarity": "Apex",
+        "Rarity": "Eclipse",
         "PlacePrice": 22222,
         "Offset": 1,
         "Max": 1,
@@ -12433,7 +12433,7 @@
     "Paperpals": {
         "Type": "Cone AOE + Slow",
         "Image": "rbxassetid://88743014752394",
-        "Rarity": "Nightmare",
+        "Rarity": "Oblivion",
         "PlacePrice": 25000,
         "Offset": 0,
         "Max": 2,
@@ -12481,7 +12481,7 @@
     "Crying Soul": {
         "Type": "Cone AOE + Slow",
         "Image": "rbxassetid://123447611843908",
-        "Rarity": "Secret",
+        "Rarity": "Ethereal",
         "PlacePrice": 350,
         "Offset": 0,
         "Max": 3,
@@ -12529,7 +12529,7 @@
     "Easter Freddles": {
         "Type": "AOE + Summon",
         "Image": "rbxassetid://98145580021622",
-        "Rarity": "Nightmare",
+        "Rarity": "Oblivion",
         "PlacePrice": 15000,
         "Offset": 0,
         "Max": 2,
@@ -12581,7 +12581,7 @@
     "Piranha Plushtrap": {
         "Type": "AOE + Slow",
         "Image": "rbxassetid://88671033425525",
-        "Rarity": "Nightmare",
+        "Rarity": "Oblivion",
         "PlacePrice": 14000,
         "Offset": -0.5,
         "Max": 2,
@@ -12629,7 +12629,7 @@
     "Liberty Chica": {
         "Type": "Range Booster",
         "Image": "rbxassetid://114586412774377",
-        "Rarity": "Epic",
+        "Rarity": "Cursed",
         "PlacePrice": 500,
         "Offset": 0,
         "Max": 3,
@@ -12673,7 +12673,7 @@
     "Ringmaster Foxy": {
         "Type": "Cone AOE + Slow",
         "Image": "rbxassetid://132624234904948",
-        "Rarity": "Nightmare",
+        "Rarity": "Oblivion",
         "PlacePrice": 11000,
         "Offset": 0,
         "Max": 2,
@@ -12721,7 +12721,7 @@
     "Toxic Springtrap": {
         "Type": "Pierce Spread + Passive",
         "Image": "rbxassetid://128503373439117",
-        "Rarity": "Apex",
+        "Rarity": "Eclipse",
         "PlacePrice": 30000,
         "Offset": 0.5,
         "Max": 1,
@@ -12781,7 +12781,7 @@
     "Sabertooth Foxy": {
         "Type": "Single",
         "Image": "rbxassetid://138570611785526",
-        "Rarity": "Epic",
+        "Rarity": "Cursed",
         "PlacePrice": 500,
         "Offset": 0.5,
         "Max": 3,
@@ -12820,7 +12820,7 @@
     "Molten Foxy": {
         "Type": "Splash + Burn",
         "Image": "rbxassetid://121765228317508",
-        "Rarity": "Mythic",
+        "Rarity": "Phantom",
         "PlacePrice": 8000,
         "Offset": 0.5,
         "Max": 3,
@@ -12868,7 +12868,7 @@
     "Dino Plane Boy": {
         "Type": "Continuous Pierce",
         "Image": "rbxassetid://99044609988802",
-        "Rarity": "Secret",
+        "Rarity": "Ethereal",
         "PlacePrice": 20000,
         "Offset": 0,
         "Max": 2,
@@ -12913,7 +12913,7 @@
     "Dino Dreadbear": {
         "Type": "Splash Stun",
         "Image": "rbxassetid://81040981850985",
-        "Rarity": "Nightmare",
+        "Rarity": "Oblivion",
         "PlacePrice": 25000,
         "Offset": 0,
         "Max": 2,
@@ -12984,7 +12984,7 @@
     "Chicasaurus Rex": {
         "Type": "Slash + Passive",
         "Image": "rbxassetid://139482431949632",
-        "Rarity": "Apex",
+        "Rarity": "Eclipse",
         "PlacePrice": 40000,
         "Offset": 2.2,
         "Max": 1,
@@ -13024,7 +13024,7 @@
         "Chicazilla": {
         "Type": "Cone AOE",
         "Image": "rbxassetid://85789248456776",
-        "Rarity": "Apex",
+        "Rarity": "Eclipse",
         "PlacePrice": 75000,
         "Offset": 2.7,
         "Max": 1,
@@ -13064,7 +13064,7 @@
         "Dino Pals": {
         "Type": "Cone AOE",
         "Image": "rbxassetid://121830495643041",
-        "Rarity": "Secret",
+        "Rarity": "Ethereal",
         "PlacePrice": 6000,
         "Offset": 0,
         "Max": 3,
@@ -13104,7 +13104,7 @@
         "Triceratops Chica": {
         "Type": "Slash",
         "Image": "rbxassetid://73945180276553",
-        "Rarity": "Nightmare",
+        "Rarity": "Oblivion",
         "PlacePrice": 33333,
         "Offset": 0,
         "Max": 3,
@@ -13144,7 +13144,7 @@
         "Paleontologist Springbonnie": {
         "Type": "Splash + Booster",
         "Image": "rbxassetid://75314778427273",
-        "Rarity": "Nightmare",
+        "Rarity": "Oblivion",
         "PlacePrice": 30000,
         "Offset": 0,
         "Max": 2,
@@ -13189,7 +13189,7 @@
         "Partytime Freddy": {
         "Type": "Cone AOE 40",
         "Image": "rbxassetid://117911299758586",
-        "Rarity": "Epic",
+        "Rarity": "Cursed",
         "PlacePrice": 800,
         "Offset": 0,
         "Max": 3,
@@ -13228,7 +13228,7 @@
         "Dessert Funtime Foxy": {
         "Type": "Splash",
         "Image": "rbxassetid://70374908034183",
-        "Rarity": "Mythic",
+        "Rarity": "Phantom",
         "PlacePrice": 6000,
         "Offset": 0,
         "Max": 2,
@@ -13267,7 +13267,7 @@
         "Hot Air Balloon Boy": {
         "Type": "Splash + Burn",
         "Image": "rbxassetid://81085704927371",
-        "Rarity": "Nightmare",
+        "Rarity": "Oblivion",
         "PlacePrice": 40000,
         "Offset": -3,
         "Max": 3,
@@ -13315,7 +13315,7 @@
         "Blimp Boy": {
         "Type": "Nuke + Burn",
         "Image": "rbxassetid://136167482897006",
-        "Rarity": "Nightmare",
+        "Rarity": "Oblivion",
         "PlacePrice": 75000,
         "Offset": 0,
         "Max": 1,
@@ -13363,7 +13363,7 @@
     "Fossilized Puppet": {
         "Type": "Chain Splash + Passive",
         "Image": "rbxassetid://102097033004654",
-        "Rarity": "Forsaken",
+        "Rarity": "Abyssal",
         "PlacePrice": 45000,
         "Offset": 0,
         "Max": 2,
@@ -13421,7 +13421,7 @@
     "LeBronnie": {
         "Type": "Chain",
         "Image": "rbxassetid://94059367110525",
-        "Rarity": "Nightmare",
+        "Rarity": "Oblivion",
         "PlacePrice": 23000,
         "Offset": 1,
         "Max": 1,
@@ -13462,7 +13462,7 @@
     "Vanessa": {
         "Type": "Cone AOE",
         "Image": "rbxassetid://91282011150521",
-        "Rarity": "Epic",
+        "Rarity": "Cursed",
         "PlacePrice": 400,
         "Offset": 0.3,
         "Max": 3,
@@ -13510,7 +13510,7 @@
     "Gregory": {
         "Type": "Continous Splash",
         "Image": "rbxassetid://127074941934847",
-        "Rarity": "Mythic",
+        "Rarity": "Phantom",
         "PlacePrice": 8000,
         "Offset": 3,
         "Max": 2,
@@ -13549,7 +13549,7 @@
     "Tiger Rock": {
         "Type": "Slash",
         "Image": "rbxassetid://91972547700934",
-        "Rarity": "Secret",
+        "Rarity": "Ethereal",
         "PlacePrice": 30000,
         "Offset": 1,
         "Max": 3,
@@ -13597,7 +13597,7 @@
     "Funtime Chica": {
         "Type": "Cone AOE + Boost",
         "Image": "rbxassetid://103017752267035",
-        "Rarity": "Nightmare",
+        "Rarity": "Oblivion",
         "PlacePrice": 20000,
         "Offset": 0.4,
         "Max": 2,
@@ -13642,7 +13642,7 @@
     "ITP Springbonnie": {
         "Type": "Continous Splash + Passive",
         "Image": "rbxassetid://72646308433490",
-        "Rarity": "Nightmare",
+        "Rarity": "Oblivion",
         "PlacePrice": 39000,
         "Offset": 0.5,
         "Max": 1,
@@ -13683,7 +13683,7 @@
     "Prototype Glamrock Freddy": {
         "Type": "Continous Splash Stun",
         "Image": "rbxassetid://80796451549035",
-        "Rarity": "Secret",
+        "Rarity": "Ethereal",
         "PlacePrice": 12000,
         "Offset": 1,
         "Max": 3,
@@ -13731,7 +13731,7 @@
     "Fetch": {
         "Type": "Splash + Bleed",
         "Image": "rbxassetid://77053332392875",
-        "Rarity": "Secret",
+        "Rarity": "Ethereal",
         "PlacePrice": 400,
         "Offset": -0.5,
         "Max": 3,
@@ -13779,7 +13779,7 @@
     "Jackie": {
         "Type": "Cone AOE",
         "Image": "rbxassetid://118660039926391",
-        "Rarity": "Nightmare",
+        "Rarity": "Oblivion",
         "PlacePrice": 6000,
         "Offset": -1.3,
         "Max": 2,
@@ -13827,7 +13827,7 @@
     "The Blob": {
         "Type": "AOE + Passive",
         "Image": "rbxassetid://75705628462698",
-        "Rarity": "Nightmare",
+        "Rarity": "Oblivion",
         "PlacePrice": 45000,
         "Offset": 0.5,
         "Max": 1,
@@ -13867,7 +13867,7 @@
     "Bidybab": {
         "Type": "Single Stun",
         "Image": "rbxassetid://114438279460444",
-        "Rarity": "Epic",
+        "Rarity": "Cursed",
         "PlacePrice": 4000,
         "Offset": 0,
         "Max": 3,
@@ -13915,7 +13915,7 @@
     "Chica's Magic Rainbow": {
         "Type": "Continous Pierce Spread",
         "Image": "rbxassetid://100362118597526",
-        "Rarity": "Nightmare",
+        "Rarity": "Oblivion",
         "PlacePrice": 41000,
         "Offset": 0,
         "Max": 1,
@@ -13955,7 +13955,7 @@
     "Carnie": {
         "Type": "Cone AOE Burn + Stun",
         "Image": "rbxassetid://105073583638652",
-        "Rarity": "Nightmare",
+        "Rarity": "Oblivion",
         "PlacePrice": 25000,
         "Offset": 0,
         "Max": 1,
@@ -14011,7 +14011,7 @@
     "Minireenas": {
         "Type": "Single",
         "Image": "rbxassetid://120057608216168",
-        "Rarity": "Epic",
+        "Rarity": "Cursed",
         "PlacePrice": 1000,
         "Offset": 0,
         "Max": 4,
@@ -14050,7 +14050,7 @@
     "JJ": {
         "Type": "Explosion",
         "Image": "rbxassetid://83426992973072",
-        "Rarity": "Secret",
+        "Rarity": "Ethereal",
         "PlacePrice": 15000,
         "Offset": 0,
         "Max": 2,
@@ -14090,7 +14090,7 @@
     "Star Spangled Orville": {
         "Type": "Explosive Wither",
         "Image": "rbxassetid://127898009659800",
-        "Rarity": "Nightmare",
+        "Rarity": "Oblivion",
         "PlacePrice": 44000,
         "Offset": -1.5,
         "Max": 2,
@@ -14142,7 +14142,7 @@
     "Sparky": {
         "Type": "Chain",
         "Image": "rbxassetid://106044817477654",
-        "Rarity": "Forsaken",
+        "Rarity": "Abyssal",
         "PlacePrice": 59214,
         "Offset": 0.4,
         "Max": 1,
@@ -14183,7 +14183,7 @@
     "Mr Hippo": {
         "Type": "Trapper + Turret",
         "Image": "rbxassetid://73851279283098",
-        "Rarity": "Apex",
+        "Rarity": "Eclipse",
         "PlacePrice": 68000,
         "Offset": 0,
         "Max": 2,
@@ -14228,7 +14228,7 @@
     "Jester Puppet": {
         "Type": "Splash Wither + Passive",
         "Image": "rbxassetid://112806747062575",
-        "Rarity": "Apex",
+        "Rarity": "Eclipse",
         "PlacePrice": 50000,
         "Offset": 0,
         "Max": 2,
@@ -14281,7 +14281,7 @@
     "Gilded Jester Puppet": {
         "Type": "Splash Wither + Passive",
         "Image": "rbxassetid://103324053538505",
-        "Rarity": "Apex",
+        "Rarity": "Eclipse",
         "PlacePrice": 25000,
         "Offset": 0,
         "Max": 2,
@@ -14338,7 +14338,7 @@
     "Cyber Police Roxy": {
         "Type": "Pierce Wither",
         "Image": "rbxassetid://126934941324179",
-        "Rarity": "Secret",
+        "Rarity": "Ethereal",
         "PlacePrice": 3000,
         "Offset": 0.6,
         "Max": 1,
@@ -14391,7 +14391,7 @@
     "Flipside Freddy": {
         "Type": "Slash + Passive",
         "Image": "rbxassetid://98510603589544",
-        "Rarity": "Nightmare",
+        "Rarity": "Oblivion",
         "PlacePrice": 99999,
         "Offset": 0.7,
         "Max": 1,
@@ -14432,7 +14432,7 @@
     "Engineer Chica": {
         "Type": "Explosion + Passive",
         "Image": "rbxassetid://93532497758458",
-        "Rarity": "Nightmare",
+        "Rarity": "Oblivion",
         "PlacePrice": 39000,
         "Offset": -1,
         "Max": 2,
@@ -14473,7 +14473,7 @@
     "Sandy Helpy": {
         "Type": "Splash",
         "Image": "rbxassetid://133012407919193",
-        "Rarity": "Epic",
+        "Rarity": "Cursed",
         "PlacePrice": 350,
         "Offset": -1,
         "Max": 3,
@@ -14512,7 +14512,7 @@
     "Heatwave Sun": {
         "Type": "Cone AOE",
         "Image": "rbxassetid://75319446250390",
-        "Rarity": "Mythic",
+        "Rarity": "Phantom",
         "PlacePrice": 4500,
         "Offset": 1,
         "Max": 2,
@@ -14551,7 +14551,7 @@
     "El Jellychip": {
         "Type": "Zap + Boost",
         "Image": "rbxassetid://136969034043541",
-        "Rarity": "Secret",
+        "Rarity": "Ethereal",
         "PlacePrice": 12000,
         "Offset": 0.3,
         "Max": 1,
@@ -14604,7 +14604,7 @@
     "Molten Serpent": {
         "Type": "Chain Melee",
         "Image": "rbxassetid://125846840665791",
-        "Rarity": "Nightmare",
+        "Rarity": "Oblivion",
         "PlacePrice": 35000,
         "Offset": -3.7,
         "Max": 2,
@@ -14652,7 +14652,7 @@
     "Tropic Terror Duo": {
         "Type": "Cone AOE Slow + Passive",
         "Image": "rbxassetid://99621129596373",
-        "Rarity": "Forsaken",
+        "Rarity": "Abyssal",
         "PlacePrice": 33333,
         "Offset": 0.5,
         "Max": 1,
@@ -14708,7 +14708,7 @@
     "Strawbaby": {
         "Type": "Splash Slow",
         "Image": "rbxassetid://75900449156657",
-        "Rarity": "Secret",
+        "Rarity": "Ethereal",
         "PlacePrice": 9000,
         "Offset": 0,
         "Max": 3,
@@ -14756,7 +14756,7 @@
     "Aquatic Ballora": {
         "Type": "Pierce Spread",
         "Image": "rbxassetid://109953928431580",
-        "Rarity": "Apex",
+        "Rarity": "Eclipse",
         "PlacePrice": 22000,
         "Offset": 0.4,
         "Max": 2,
@@ -14804,7 +14804,7 @@
     "Oceanic Ballora": {
         "Type": "AOE + Passive",
         "Image": "rbxassetid://109670372514457",
-        "Rarity": "Apex",
+        "Rarity": "Eclipse",
         "PlacePrice": 35000,
         "Offset": 0.4,
         "Max": 1,
@@ -14845,7 +14845,7 @@
     "Drained Coffee": {
         "Type": "Splash",
         "Image": "rbxassetid://88006758893374",
-        "Rarity": "Secret",
+        "Rarity": "Ethereal",
         "PlacePrice": 750,
         "Offset": -0.5,
         "Max": 3,
@@ -14890,7 +14890,7 @@
     "Sun Guardian Freddy": {
         "Type": "Explosion",
         "Image": "rbxassetid://134863215965587",
-        "Rarity": "Nightmare",
+        "Rarity": "Oblivion",
         "PlacePrice": 29000,
         "Offset": 0,
         "Max": 2,
@@ -14938,7 +14938,7 @@
     "Waterworks Foxy": {
         "Type": "Continous Splash Slow",
         "Image": "rbxassetid://121168642208042",
-        "Rarity": "Nightmare",
+        "Rarity": "Oblivion",
         "PlacePrice": 3000,
         "Offset": -1,
         "Max": 1,
@@ -14986,7 +14986,7 @@
     "Into the Pool": {
         "Type": "Single Slow AOE + Passive",
         "Image": "rbxassetid://131726719551115",
-        "Rarity": "Nightmare",
+        "Rarity": "Oblivion",
         "PlacePrice": 50000,
         "Offset": 0,
         "Max": 1,
@@ -15035,7 +15035,7 @@
     "Porcelain Weaver Chica": {
         "Type": "Pierce + Summon",
         "Image": "rbxassetid://70660696068882",
-        "Rarity": "Nightmare",
+        "Rarity": "Oblivion",
         "PlacePrice": 22000,
         "Offset": 0.4,
         "Max": 2,
@@ -15083,7 +15083,7 @@
     "Birthday Bash Bonnie": {
         "Type": "Nuke",
         "Image": "rbxassetid://72792573129785",
-        "Rarity": "Secret",
+        "Rarity": "Ethereal",
         "PlacePrice": 45000,
         "Offset": 1,
         "Max": 1,
@@ -15131,7 +15131,7 @@
  "Neo Titan Freddy": {
         "Type": "AOE + Passive",
         "Image": "rbxassetid://98687996514061",
-        "Rarity": "Apex",
+        "Rarity": "Eclipse",
         "PlacePrice": 56000,
         "Offset": 0.3,
         "Max": 1,
@@ -15175,7 +15175,7 @@
      "Painter Puppet": {
         "Type": "Cone AOE",
         "Image": "rbxassetid://74447601469380",
-        "Rarity": "Nightmare",
+        "Rarity": "Oblivion",
         "PlacePrice": 20000,
         "Max": 2,
         "Passive": {"Name": "Paint Splatter", "Description": "When this unit attacks, has a 60% chance to apply Slow (58.5% for 1s), Wither (17.5% for 1s), and Anti-Regen (35% for 1.5s) "},
@@ -15240,7 +15240,7 @@
     "Warpseer Mangle": {
         "Type": "Nuke",
         "Image": "rbxassetid://134052825970100",
-        "Rarity": "Secret",
+        "Rarity": "Ethereal",
         "PlacePrice": 25000,
         "Max": 2,
         "Passive": {"Name": "Witchrot", "Description": "Main attack applies 50% Anti-Regen for 2s. Every 5 seconds the next attack deals an additional 40% damage in Poison over 2s."},
@@ -15296,7 +15296,7 @@
     "Glitchtrap": {
         "Type": "Pierce",
         "Image": "rbxassetid://101957224781287",
-        "Rarity": "Apex",
+        "Rarity": "Eclipse",
         "PlacePrice": 45000,
         "Max": 1,
         "Passive": {"Name": "Distortion", "Description": "Passively boosts all unit damage by 30%. Auto executes enemies at 20% (8.5% to Bosses/Imps) and attacks apply 10% Wither."},
@@ -15352,7 +15352,7 @@
     "The Glitched": {
         "Type": "Nuke",
         "Image": "rbxassetid://103032877502508",
-        "Rarity": "Apex",
+        "Rarity": "Eclipse",
         "PlacePrice": 99999,
         "Max": 1,
         "Passive": {"Name": "Mega Virus", "Description": "Attacks apply Mega Virus marking up to 5 enemies causing 20% Auto Execute. When a marked enemy is hit again, Mega Virus triggers dealing +652% damage, 2.8s True Stun and 45% Auto Execute (15% to Bosses/Imps)."},
