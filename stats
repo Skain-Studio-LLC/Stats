@@ -8615,36 +8615,38 @@
             "Y": 0,
             "Z": 0
         },
-        "Upgrades": [
+         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 25,
+                "Range": 999,
                 "Damage": 999,
                 "Cooldown": 2,
+                "Bleed": 0.4,
+                "BleedTime": 3
             },
             {
                 "Price": 200,
-                "Range": 30,
+                "Range": 999,
                 "Damage": 9999,
                 "Cooldown": 2,
+                "Bleed": 0.4,
+                "BleedTime": 3
             },
             {
-                "Price": 90000,
-                "Range": 999,
-                "Damage": 22750,
-                "Cooldown": 2,
-            },
-			{
                 "Price": 200,
                 "Range": 999,
                 "Damage": 99999,
                 "Cooldown": 2,
+                "Bleed": 0.4,
+                "BleedTime": 3
             },
             {
                 "Price": 200,
                 "Range": 999,
                 "Damage": 999999,
                 "Cooldown": 2,
+                "Bleed": 0.4,
+                "BleedTime": 3
             }
         ]
     },
