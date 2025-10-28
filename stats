@@ -8602,6 +8602,53 @@
             }
         ]
     },
+
+    "Admin Dark Knight Puppet": {
+        "Type": "AOE + Passive",
+        "Image": "rbxassetid://86604943457071",
+        "Rarity": "Eclipse",
+        "PlacePrice": 200,
+        "Offset": 0,
+        "Max": 999,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 999,
+                "Cooldown": 2,
+            },
+            {
+                "Price": 200,
+                "Range": 30,
+                "Damage": 9999,
+                "Cooldown": 2,
+            },
+            {
+                "Price": 90000,
+                "Range": 999,
+                "Damage": 22750,
+                "Cooldown": 2,
+            },
+			{
+                "Price": 200,
+                "Range": 999,
+                "Damage": 99999,
+                "Cooldown": 2,
+            },
+            {
+                "Price": 200,
+                "Range": 999,
+                "Damage": 999999,
+                "Cooldown": 2,
+            }
+        ]
+    },
+
     "Dark Knight Puppet": {
         "Type": "AOE + Passive",
         "Image": "rbxassetid://86604943457071",
@@ -8690,6 +8737,9 @@
             }
         ]
     },
+
+
+
 "Freddy Frostbear": {
         "Type": "Pierce Slow + Passive",
         "Image": "rbxassetid://130800122285848",
