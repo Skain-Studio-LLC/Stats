@@ -8644,7 +8644,7 @@
                 "Price": 200,
                 "Range": 999,
                 "Damage": 999999,
-                "Cooldown": 2,
+                "Cooldown": 0.005,
                 "Bleed": 0.4,
                 "BleedTime": 3
             }
