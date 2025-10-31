@@ -5959,12 +5959,67 @@
         ]
     },
 
-
+"JackoTrap": {
+        "Type": "Splash Burn + Slow",
+        "Image": "rbxassetid://90439626995960",
+        "Rarity": "Hallowed",
+        "PlacePrice": 16000,
+        "Offset": 0,
+        "Max": 2,
+        "Passive": {"Name": "Slow Burn", "Description": "Attacks slow enemies by 50%"},
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 22,
+                "Damage": 8000,
+                "Cooldown": 1.8,
+                "Slow": 0.5,
+                "SlowTime": 2,
+                "Burn": 38,
+                "BurnTime": 1.2
+            },
+            {
+                "Price": 20000,
+                "Range": 24,
+                "Damage": 12000,
+                "Cooldown": 1.7,
+                "Slow": 0.5,
+                "SlowTime": 2,
+                "Burn": 38,
+                "BurnTime": 1.2
+            },
+            {
+                "Price": 25000,
+                "Range": 28,
+                "Damage": 16000,
+                "Cooldown": 1.6,
+                "Slow": 0.5,
+                "SlowTime": 2,
+                "Burn": 38,
+                "BurnTime": 1.2
+            },
+            {
+                "Price": 30000,
+                "Range": 30,
+                "Damage": 17000,
+                "Cooldown": 1.5,
+                "Slow": 0.5,
+                "SlowTime": 2,
+                "Burn": 38,
+                "BurnTime": 1.2
+            }
+        ]
+    },
 
 "Jack O Cannon": {
         "Type": "Splash",
         "Image": "rbxassetid://96604370427078",
-        "Rarity": "Ethereal",
+        "Rarity": "Hallowed",
         "PlacePrice": 3000,
         "Offset": -0.5,
         "Max": 1,
@@ -6245,7 +6300,7 @@
 "Jack O Bonnie": {
         "Type": "Cone AOE Burst",
         "Image": "rbxassetid://138089489409264",
-        "Rarity": "Phantom",
+        "Rarity": "Hallowed",
         "PlacePrice": 6000,
         "Offset": 0,
         "Max": 3,
@@ -6299,7 +6354,7 @@
 "Jack O Endo": {
         "Type": "Continuous Burn",
         "Image": "rbxassetid://140269643382452",
-        "Rarity": "Ethereal",
+        "Rarity": "Hallowed",
         "PlacePrice": 17500,
         "Offset": 0,
         "Max": 3,
@@ -6350,7 +6405,7 @@
 "Jack O Chica": {
         "Type": "Splash Burn",
         "Image": "rbxassetid://127828338385715",
-        "Rarity": "Haunted",
+        "Rarity": "Hallowed",
         "PlacePrice": 3000,
         "Offset": 0,
         "Max": 3,
