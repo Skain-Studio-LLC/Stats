@@ -6186,7 +6186,45 @@
         ]
     },
 
-
+ "Grim Cupcake": {
+        "Type": "Single",
+        "Image": "rbxassetid://18364281117",
+        "Rarity": "Hallowed",
+        "PlacePrice": 800,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Offset": 5,
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 30,
+                "Damage": 140,
+                "Cooldown": 3
+            },
+            {
+                "Price": 1200,
+                "Range": 35,
+                "Damage": 240,
+                "Cooldown": 3
+            },
+            {
+                "Price": 1500,
+                "Range": 40,
+                "Damage": 400,
+                "Cooldown": 2.5
+            },
+            {
+                "Price": 2000,
+                "Range": 45,
+                "Damage": 500,
+                "Cooldown": 2
+            }
+        ]
+    },
 
  "Reaper Foxy": {
         "Type": "Splash Burn",
