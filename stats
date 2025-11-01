@@ -5959,6 +5959,82 @@
         ]
     },
 
+ "Demon Endo": {
+        "Type": "Continuous Splash",
+        "Image": "rbxassetid://18673468864",
+        "Rarity": "Hallowed",
+        "PlacePrice": 1000,
+        "Max": 1,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Offset": 0,
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 320,
+                "Cooldown": 0.25,
+                "SummonTime": 30,
+                "Health": 200,
+                "WalkSpeed": 12,
+                "Amount": 3,
+                "Unit": "Skelention Freddy",
+                "Offset": -2,
+                "SummonRange": 25,
+                "SummonDamage": 320,
+                "SummonCooldown": 0.25
+            },
+            {
+                "Price": 1500,
+                "Range": 23,
+                "Damage": 380,
+                "Cooldown": 0.25,
+                "SummonTime": 30,
+                "Health": 300,
+                "WalkSpeed": 12,
+                "Amount": 2,
+                "Unit": "Skelention Freddy",
+                "Offset": 0,
+                "SummonRange": 25,
+                "SummonDamage": 380,
+                "SummonCooldown": 0.25
+            },
+            {
+                "Price": 2000,
+                "Range": 26,
+                "Damage": 440,
+                "Cooldown": 0.25,
+                "SummonTime": 30,
+                "Health": 500,
+                "WalkSpeed": 12,
+                "Amount": 3,
+                "Unit": "Skelention Freddy",
+                "Offset": -2,
+                "SummonRange": 25,
+                "SummonDamage": 440,
+                "SummonCooldown": 0.25
+            },
+            {
+                "Price": 3000,
+                "Range": 30,
+                "Damage": 500,
+                "Cooldown": 0.25,
+                "SummonTime": 30,
+                "Health": 750,
+                "WalkSpeed": 12,
+                "Amount": 4,
+                "Unit": "Skelention Freddy",
+                "Offset": -2,
+                "SummonRange": 25,
+                "SummonDamage": 500,
+                "SummonCooldown": 0.25
+            }
+        ]
+    },
+
 "JackoTrap": {
         "Type": "Splash Burn + Slow",
         "Image": "rbxassetid://90439626995960",
@@ -6561,7 +6637,7 @@
                 "Price": 0,
                 "Range": 35,
                 "Damage": 3000,
-                "Unit": {"Necro Spawn": 1, "Necro Spawn 2": 0},
+                "Unit": {"Skelention Freddy": 1, "Skelention Endo": 0},
                 "WalkSpeed": 9,
                 "Health": 500,
                 "Cooldown": 2,
@@ -6573,7 +6649,7 @@
                 "Price": 30000,
                 "Range": 40,
                 "Damage": 3500,
-                "Unit": {"Necro Spawn": 1, "Necro Spawn 2": 0},
+                "Unit": {"Skelention Freddy": 1, "Skelention Endo": 0},
                 "WalkSpeed": 9,
                 "Health": 500,
                 "Cooldown": 1.66,
@@ -6585,7 +6661,7 @@
                 "Price": 40000,
                 "Range": 45,
                 "Damage": 4000,
-                "Unit": {"Necro Spawn": 1, "Necro Spawn 2": 0},
+                "Unit": {"Skelention Freddy": 1, "Skelention Endo": 0},
                 "WalkSpeed": 9,
                 "Health": 500,
                 "Cooldown": 1.33,
@@ -6597,7 +6673,7 @@
                 "Price": 50000,
                 "Range": 50,
                 "Damage": 4500,
-                "Unit": {"Necro Spawn": 1, "Necro Spawn 2": 0},
+                "Unit": {"Skelention Freddy": 1, "Skelention Endo": 0},
                 "WalkSpeed": 9,
                 "Health": 50000,
                 "Cooldown": 1.33,
