@@ -6319,7 +6319,7 @@
             {
                 "Price": 0,
                 "Range": 20,
-                "Damage": 400,
+                "Damage": 1000,
                 "Cooldown": 1.5,
                 "Burn": 500,
                 "BurnTime": 2
@@ -6327,24 +6327,24 @@
             {
                 "Price": 400,
                 "Range": 22,
-                "Damage": 500,
-                "Cooldown": 1.5,
+                "Damage": 2000,
+                "Cooldown": 1,
                 "Burn": 625,
                 "BurnTime": 2
             },
             {
                 "Price": 500,
                 "Range": 24,
-                "Damage": 600,
-                "Cooldown": 1.5,
+                "Damage": 3000,
+                "Cooldown": 0.9,
                 "Burn": 750,
                 "BurnTime": 2
             },
             {
                 "Price": 600,
                 "Range": 25,
-                "Damage": 800,
-                "Cooldown": 1.5,
+                "Damage": 4000,
+                "Cooldown": 0.5,
                 "Burn": 1000,
                 "BurnTime": 2
             }
